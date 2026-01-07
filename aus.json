@@ -1,0 +1,51 @@
+{
+  "match": {
+    "title": "Australia vs England",
+    "date": "17 Dec 2025",
+    "time": "05:15 AM NST",
+    "stadium": "Perth Stadium",
+    "league": "Test Series",
+    "round": "3rd match",
+    "broadcaster": "WillowTV, Sky sports , TNT Sports , Sony Sports",
+    "banner_image": "https://www.shutterstock.com/image-illustration/karachipakistan-29-may-2024-india-600nw-2469266093.jpg",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "Australia",
+    "lineup": "Rahmanullah Gurbaz (wk), Ibrahim Zadran, Sediqullah Atal, Darwish Rasooli, Shahidullah Kamal, Azmatullah Omarzai, Rashid Khan (c), Mohammad Nabi, Mujeeb Ur Rahman, Fareed Ahmad Malik, Abdullah Ahmadzai"
+  },
+  "team2": {
+    "name": "England", 
+    "lineup": "Brian Bennett, Tadiwanashe Marumani, Brendan Taylor (wk), Sikandar Raza (c), Ryan Burl, Tony Munyonga, Tashinga Musekiwa, Brad Evans, Tinotenda Maposa/Graeme Cremer, Richard Ngarava, Blessing Muzarabani"
+  },
+  "info_sources": [
+    
+    {
+      "name": "Best Link 1:Australia vs England", 
+      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/plyrr?src=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
+    },
+    {
+      "name": "Best Link 2:Australia vs England", 
+      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/tnt1"
+    },
+    {
+      "name": "Best Link 3:Australia vs England", 
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    
+    {
+      "name": "HD Link 1:Australia vs England", 
+      "url": "https://yonotv.pages.dev/page.html?src=https://embedsports.top/embed/admin/ppv-australia-vs-england/1"
+    },
+   {
+      "name": "HD Link 2:Australia vs England", 
+      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/plyrr?src=https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8"
+    },
+
+    {
+      "name": "HD Link 3:Australia vs England", 
+      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/plyrr?src=https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
+   
+    }
+  ]
+}
