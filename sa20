@@ -1,0 +1,39 @@
+{
+  "match": {
+    "title": "SA20 Leagues",
+    "date": "17 Dec 2025",
+    "time": "4:45 PM NST",
+    "stadium": "SuperSport Park Cricket Stadium",
+    "league": "SA20 Leagues 2025",
+    "round": "Groups stage",
+    "broadcaster": "Youtube , YoNoTV",
+    "banner_image": "https://images.mykhel.com/img/2025/01/sa20-2025-schedule-ft-1736339895.jpg",
+    "lineup_published":false
+  },
+  "team1": {
+    "name": "Lumbini",
+    "lineup": "D Arcy Short, Dinesh Adhikari, Rohit Paudel (c), Sundeep Jora, Niroshan Dickwella (wk), Dilip Nath, JJ Smit, Ruben Trumpelmann, Sher Malla, Abhishesh Gautam, Tilak Bhandari, Aadil Khan, Durgesh Gupta, Thomas Draca, Sumit Maharjan, Bishal Patel, and Sameer Ali Musalman."
+  },
+  "team2": {
+    "name": "Sudurpaschim", 
+    "lineup": "Dipendra Singh Airee (c), Josh Brown, Binod Bhandari(wk), Chris Lynn, Aarif Sheikh, Harmeet Singh, Ishan Pandey, Scott Kuggeleijn, Naren Saud, Hemant Dhami, Abinash Bohara, Dipak Bohara, Milan Bohara, Dipendra Thapa, Tek Rawa"
+  },
+  "info_sources": [
+    
+    {
+      "name": "HD Link 1:SA20 Leagues", 
+      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame7.htm"
+    },
+    {
+      "name": "HD Link 2:SA20 Leagues", 
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "HD Link 3:SA20 Leagues", 
+      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame7.htm"
+    }
+    
+   
+    
+  ]
+}
