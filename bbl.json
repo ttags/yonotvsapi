@@ -1,0 +1,48 @@
+{
+  "match": {
+    "title": "BPL 2025 LIVE",
+    "date": "26 Dec 2025",
+    "time": "02:45 PM NST",
+    "stadium": "Sylhet Intl Cricket Stadium",
+    "league": "BPL 2025 LIVE 2025",
+    "round": "Groups stage",
+    "broadcaster": "Youtube , YoNoTV",
+    "banner_image": "https://www.bssnews.net/assets/news_photos/2025/11/05/image-328779-1762346895.jpg",
+    "lineup_published":false
+  },
+  "team1": {
+    "name": "Lumbini",
+    "lineup": "D Arcy Short, Dinesh Adhikari, Rohit Paudel (c), Sundeep Jora, Niroshan Dickwella (wk), Dilip Nath, JJ Smit, Ruben Trumpelmann, Sher Malla, Abhishesh Gautam, Tilak Bhandari, Aadil Khan, Durgesh Gupta, Thomas Draca, Sumit Maharjan, Bishal Patel, and Sameer Ali Musalman."
+  },
+  "team2": {
+    "name": "Sudurpaschim", 
+    "lineup": "Dipendra Singh Airee (c), Josh Brown, Binod Bhandari(wk), Chris Lynn, Aarif Sheikh, Harmeet Singh, Ishan Pandey, Scott Kuggeleijn, Naren Saud, Hemant Dhami, Abinash Bohara, Dipak Bohara, Milan Bohara, Dipendra Thapa, Tek Rawa"
+  },
+  "info_sources": [
+    
+    {
+      "name": "HD Link 1:BPL 2025 LIVE", 
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL"
+    },
+    {
+      "name": "HD Link 2:BPL 2025 LIVE", 
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "HD Link 3:BPL 2025 LIVE", 
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL2"
+    },
+    {
+      "name": "Full HD Link 1:BPL 2025 LIVE", 
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL3"
+    },
+   {
+      "name": "Full HD Link 2:BPL 2025 LIVE", 
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL4"
+    },
+    {
+      "name": "Full HD Link 3:BPL 2025 LIVE", 
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL5"
+    }
+  ]
+}
