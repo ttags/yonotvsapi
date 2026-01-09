@@ -1,114 +1,101 @@
-import os
 import json
-import requests
+import os
+import re
 import subprocess
-from pathlib import Path
-from urllib.parse import urlparse, parse_qs
+import sys
+from urllib.request import urlopen
 
 BASE_API = "https://yonotv-api.pages.dev"
-OWNER = "ttags"
-REPO = "yonotvsapi"
+API_FILE = "api.json"
 
-ROOT = Path(__file__).resolve().parent.parent
-SUMMARY_FILE = os.environ.get("GITHUB_STEP_SUMMARY")
-
-
-def log(msg):
-    print(f"[sync] {msg}")
-
-
-def write_summary(text):
-    if SUMMARY_FILE:
-        with open(SUMMARY_FILE, "a") as f:
-            f.write(text + "\n")
+WORKDIR = os.getcwd()
 
 
 def fetch_json(url):
-    r = requests.get(url, timeout=20)
-    r.raise_for_status()
-    return r.json()
+    with urlopen(url) as r:
+        return json.loads(r.read().decode("utf-8"))
 
 
-def replace_domain(obj):
-    """Recursively replace newsecrettips -> yonotvs"""
-    if isinstance(obj, dict):
-        return {k: replace_domain(v) for k, v in obj.items()}
-    if isinstance(obj, list):
-        return [replace_domain(v) for v in obj]
-    if isinstance(obj, str):
-        return obj.replace("newsecrettips", "yonotvs")
-    return obj
+def write_json(path, data):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def extract_match_id(match_link):
-    parsed = urlparse(match_link)
-    qs = parse_qs(parsed.query)
-    return qs.get("id", [None])[0]
-
-
-def git_has_changes():
-    result = subprocess.run(
-        ["git", "status", "--porcelain"],
-        capture_output=True,
-        text=True,
-    )
-    return bool(result.stdout.strip())
-
-
-def git_commit_and_push(message):
-    subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
-    subprocess.run(
-        ["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"],
-        check=True,
-    )
-    subprocess.run(["git", "add", "."], check=True)
-    subprocess.run(["git", "commit", "-m", message], check=True)
-    subprocess.run(["git", "push"], check=True)
+def git(cmd):
+    subprocess.run(cmd, check=True)
 
 
 def main():
-    write_summary("## 🔄 Yonotvs API Sync\n")
+    print("▶ Fetching api.json")
+    api = fetch_json(f"{BASE_API}/api.json")
 
-    try:
-        log("Fetching api.json")
-        api_data = fetch_json(f"{BASE_API}/api.json")
-        api_data = replace_domain(api_data)
+    api_str = json.dumps(api)
+    api_str = api_str.replace("newsecrettips", "yonotvs")
+    api = json.loads(api_str)
 
-        api_path = ROOT / "api.json"
-        api_path.write_text(json.dumps(api_data, indent=2), encoding="utf-8")
-        log("Updated api.json")
+    write_json(API_FILE, api)
 
-        ids = []
-        for match in api_data:
-            mid = extract_match_id(match.get("match_link", ""))
-            if mid:
-                ids.append(mid)
+    valid_ids = set()
 
-        log(f"Found {len(ids)} match IDs: {', '.join(ids)}")
-        write_summary(f"- Matches found: `{', '.join(ids)}`")
+    print("▶ Processing match JSONs")
 
-        for mid in ids:
-            url = f"{BASE_API}/{mid}.json"
-            log(f"Fetching {mid}.json")
-            data = fetch_json(url)
-            data = replace_domain(data)
+    for item in api:
+        match_link = item.get("match_link", "")
+        match_id = re.search(r"id=([a-zA-Z0-9_-]+)", match_link)
 
-            out = ROOT / f"{mid}.json"
-            out.write_text(json.dumps(data, indent=2), encoding="utf-8")
+        if not match_id:
+            continue
 
-        if git_has_changes():
-            log("Changes detected, committing once")
-            git_commit_and_push("chore: sync api.json and match feeds")
-            write_summary("✅ Changes detected and pushed in a single commit.")
-        else:
-            log("No changes detected")
-            write_summary("ℹ️ No changes detected. Repo already up to date.")
+        match_id = match_id.group(1)
+        valid_ids.add(match_id)
 
-    except Exception as e:
-        log(f"ERROR: {e}")
-        write_summary("❌ Sync failed. Check logs for details.")
-        raise  # makes GitHub Action fail (red)
+        print(f"  → {match_id}.json")
+
+        match_json = fetch_json(f"{BASE_API}/{match_id}.json")
+
+        raw = json.dumps(match_json)
+
+        # Required replacements
+        raw = raw.replace("telecast_links", "info_sources")
+        raw = raw.replace(
+            "https://yonotv.pages.dev/page.html?src",
+            "https://ytvs-frame.pages.dev/frame?ref"
+        )
+
+        match_json = json.loads(raw)
+        write_json(f"{match_id}.json", match_json)
+
+    print("▶ Removing stale JSON files")
+
+    for file in os.listdir(WORKDIR):
+        if not file.endswith(".json"):
+            continue
+        if file == "api.json":
+            continue
+
+        name = file.replace(".json", "")
+        if name not in valid_ids:
+            print(f"  ✖ Removing stale file: {file}")
+            os.remove(file)
+
+    print("▶ Checking for changes")
+    status = subprocess.check_output(["git", "status", "--porcelain"]).decode().strip()
+
+    if not status:
+        print("✔ No changes detected. Skipping commit.")
+        return
+
+    print("▶ Committing changes")
+    git(["git", "add", "."])
+    git(["git", "commit", "-m", "sync(api): refresh match jsons"])
+    git(["git", "push"])
+
+    print("✔ Sync complete")
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        print("✖ Sync failed:", e)
+        sys.exit(1)
