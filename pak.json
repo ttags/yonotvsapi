@@ -1,0 +1,43 @@
+{
+  "match": {
+    "title": "PAK vs SL",
+    "date": "27 Nov 2025",
+    "time": "06:45 PM NST",
+    "stadium": "Rawalpindi Cricket Stadium",
+    "league": "T20I Series",
+    "round": "3rd match",
+    "broadcaster": "WillowTV, AsportsHD",
+    "banner_image": "https://images.mykhel.com/img/2025/11/pak-vs-sl-live-streaming3-1763810475.jpg",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "PAK",
+    "lineup": "Salman Ali Agha (c), Hasan Nawaz, Abrar Ahmed, Babar Azam, Faheem Ashraf, Mohammad Nawaz, Mohammad Wasim Jnr, Mohammad Salman Mirza, Naseem Shah, Sahibzada Farhan, Saim Ayub, Shaheen Shah Afridi, Usman Khan (wk), Usman Tariq, Fakhar Zaman"
+  },
+  "team2": {
+    "name": "SL",
+    "lineup": "Dasun Shanaka (c), Pathum Nissanka, Kusal Mendis (wk), Kusal Perera (wk), Kamil Mishara,Kamindu Mendis, Bhanuka Rajapaksa (wk), Janith Liyanage, Wanindu Hasaranga, Maheesh Theekshana, Dushan Hemantha, Dushmantha Chameera, Nuwan Thushara, Eshan Malinga, Pavan Rathnayake, Vijayakanth Viyaskanth"
+  },
+  "telecast_links": [
+    {
+      "name": "Best Link 1:PAK vs SL",
+      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/tnt1"
+    },
+    {
+      "name": "Best Link 2:PAK vs SL",
+      "url": "https://dns-tv.pages.dev/VIP/ads.html"
+    },
+    {
+      "name": "Best Link 3:PAK vs SL",
+      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/plyrr?src=https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8"
+    },
+    {
+      "name": "HD Link 1:PAK vs SL",
+      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/plyrr?src=https://flussonic.superfasthdserver.com/PtvSports/index.m3u8"
+    },
+    {
+      "name": "HD Link 2:PAK vs SL",
+      "url": "https://dns-tv.pages.dev/VIP/ads.html"
+    }
+  ]
+}

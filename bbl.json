@@ -5,7 +5,7 @@
     "time": "02:00 PM NST",
     "stadium": "Optus Stadium",
     "league": "BBL LIVE 2025 ",
-      "round": "Group stage",
+    "round": "Group stage",
     "broadcaster": "Willow TV , Asports, YoNoTV",
     "banner_image": "https://admin.icccricketschedule.com/uploads/images/202512/big-bash-league-2025-26_1200x_d7f675.jpg",
     "lineup_published": false
@@ -15,33 +15,29 @@
     "lineup": "Ashok Dhami(c) ,Bansha Kshetri, Nischal Kshetri, Nitish Kumar Patel, Chandan Ram, Roshan Bishwakarma, Aparajit Paudel, Cibrin Shrestha, Niraj Yadav, Darsh Sonar, Dilsad Ali, Dayanand Mandal, and Sushil Bahadur Rawal"
   },
   "team2": {
-    "name": "UAE", 
+    "name": "UAE",
     "lineup": "Yayin Rai(c), aAhmed Khodadad, Aliasgar Shums, Ayaan Misbah, Karan Dhiman, Madhav Manoj, Naseem Khan, Noorullah Ayobi, Prithvi Madhu, Rayan Khan, Saleh Amin, Uddish Suri, Yug Sharma, and Zainullah Rahmani."
   },
-  "info_sources": [
+  "telecast_links": [
     {
-      "name": "Full HD Link 1:BBL LIVE 2025", 
+      "name": "Full HD Link 1:BBL LIVE 2025",
       "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/plyrr?src=https://tvsen5.aynaott.com/Ptvsports/index.m3u8"
-  
-   
-},
-{
-      "name": "Best Link 2:BBL LIVE 2025", 
+    },
+    {
+      "name": "Best Link 2:BBL LIVE 2025",
       "url": "https://yonotv.pages.dev/page.html?src=https://me.webcric.com/frame10.htm"
     },
     {
-      "name": "Best Link 3:BBL LIVE 2025", 
+      "name": "Best Link 3:BBL LIVE 2025",
       "url": "https://dns-tv.pages.dev/VIP/ads.html"
     },
     {
-      "name": "Full HD Link 1:BBL LIVE 2025", 
+      "name": "Full HD Link 1:BBL LIVE 2025",
       "url": "https://yonotv.pages.dev/page.html?src=https://me.webcric.com/frame10.htm"
     },
     {
-      "name": "Full HD Link 1:BBL LIVE 2025", 
+      "name": "Full HD Link 1:BBL LIVE 2025",
       "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/plyrr?src=https://tvsen5.aynaott.com/willowhd/index.m3u8"
-  
-   
     }
   ]
 }

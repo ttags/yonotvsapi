@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "SA20 Leagues",
-    "date": "17 Dec 2025",
-    "time": "4:45 PM NST",
-    "stadium": "SuperSport Park Cricket Stadium",
-    "league": "SA20 Leagues 2025",
+    "title": "WPL 2026",
+    "date": "JAN 2026",
+    "time": "07:45 PM NST",
+    "stadium": "MUMBAI",
+    "league": "WPL 2026",
     "round": "Groups stage",
     "broadcaster": "Youtube , YoNoTV",
-    "banner_image": "https://images.mykhel.com/img/2025/01/sa20-2025-schedule-ft-1736339895.jpg",
+    "banner_image": "https://www.wplt20.com/static-assets/waf-images/d5/5b/55/0/image-b1878709-13a3-4c00-8af9-b5b0e5a96ebe.jpg",
     "lineup_published": false
   },
   "team1": {
@@ -20,16 +20,16 @@
   },
   "telecast_links": [
     {
-      "name": "HD Link 1:SA20 Leagues",
-      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame7.htm"
+      "name": "HD Link 1:WPL 2026",
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/wtv"
     },
     {
-      "name": "HD Link 2:SA20 Leagues",
+      "name": "HD Link 2:WPL 2026",
       "url": "https://yonotv-now.pages.dev/ADS"
     },
     {
-      "name": "HD Link 3:SA20 Leagues",
-      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame7.htm"
+      "name": "HD Link 3:WPL 2026",
+      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame8.htm"
     }
   ]
 }
