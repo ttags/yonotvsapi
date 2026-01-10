@@ -2,7 +2,7 @@ name: Sync Yonotvs API JSONs
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:        # manual run button
 
 permissions:
