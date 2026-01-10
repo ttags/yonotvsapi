@@ -18,10 +18,10 @@
     "name": "SL",
     "lineup": "Dasun Shanaka (c), Pathum Nissanka, Kusal Mendis (wk), Kusal Perera (wk), Kamil Mishara,Kamindu Mendis, Bhanuka Rajapaksa (wk), Janith Liyanage, Wanindu Hasaranga, Maheesh Theekshana, Dushan Hemantha, Dushmantha Chameera, Nuwan Thushara, Eshan Malinga, Pavan Rathnayake, Vijayakanth Viyaskanth"
   },
-  "telecast_links": [
+  "info_sources": [
     {
       "name": "Best Link 1:PAK vs SL",
-      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/tnt1"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/tnt1"
     },
     {
       "name": "Best Link 2:PAK vs SL",
@@ -29,11 +29,11 @@
     },
     {
       "name": "Best Link 3:PAK vs SL",
-      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/plyrr?src=https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8"
     },
     {
       "name": "HD Link 1:PAK vs SL",
-      "url": "https://yonotv.pages.dev/page.html?src=https://yonotv-now.pages.dev/plyrr?src=https://flussonic.superfasthdserver.com/PtvSports/index.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://flussonic.superfasthdserver.com/PtvSports/index.m3u8"
     },
     {
       "name": "HD Link 2:PAK vs SL",
