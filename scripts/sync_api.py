@@ -42,15 +42,27 @@ def replace_domain(obj):
 
 def replace_match_specific(obj):
     """
-    Extra replacements for xxx.json files
-    - telecast_links -> info_sources
-    - frame url replacement
+    Extra replacements for xxx.json files:
+    - Rename 'telecast_links' -> 'info_sources'
+    - Replace frame URLs in link URLs
+    - Standardize link names as Link 1, Link 2, ...
     """
     if isinstance(obj, dict):
         new = {}
         for k, v in obj.items():
+            # Rename key
             if k == "telecast_links":
                 k = "info_sources"
+                # Standardize names if it's a list of links
+                if isinstance(v, list):
+                    v_new = []
+                    for i, link in enumerate(v):
+                        v_new.append({
+                            "name": f"Link {i+1}",
+                            "url": replace_match_specific(link.get("url", ""))
+                        })
+                    new[k] = v_new
+                    continue  # Skip the default recursion
             new[k] = replace_match_specific(v)
         return new
 
@@ -58,6 +70,7 @@ def replace_match_specific(obj):
         return [replace_match_specific(v) for v in obj]
 
     if isinstance(obj, str):
+        # Replace old frame URLs with new frame URLs
         if obj.startswith((
             "http://yonotv.pages.dev/page.html?src",
             "https://yonotv.pages.dev/page.html?src",
@@ -70,6 +83,7 @@ def replace_match_specific(obj):
         return obj
 
     return obj
+
 
 
 
