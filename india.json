@@ -1,0 +1,47 @@
+{
+  "match": {
+    "title": "IND vs ENG",
+    "date": "11 JAN 2026",
+    "time": "01:45 PM NST",
+    "stadium": "JSCA Int Stadium ",
+    "league": "ODI Series",
+    "round": "1st match",
+    "broadcaster": "TNT ,WillowTV, FOX",
+    "banner_image": "https://www.scorewaves.com/image/public/uploads/202502011637ind-vs-eng-1st-odi.webp",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "IND",
+    "lineup": "KL Rahul (c and wk), Rohit Sharma, Yashasvi Jaiswal, Virat Kohli, Tilak Varma,Rishabh Pant (wk), Washington Sundar, Ravindra Jadeja, Kuldeep Yadav, Nitish Kumar Reddy, Harshit Rana, Ruturaj Gaikwad, Prasidh Krishna, Arshdeep Singh, Dhruv Jurel (wk)"
+  },
+  "team2": {
+    "name": "ENG",
+    "lineup": "Temba Bavuma (c), Ottniel Baartman, Corbin Bosch, Matthew Breetzke, Dewald Brevis, Nandre Burger, Quinton de Kock (wk), Tony de Zorzi, Rubin Hermann, Keshav Maharaj, Marco Jansen, Aiden Markram, Ryan Rickelton (wk), Prenelan Subrayen "
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://yonotv.pages.dev/ADS"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india3"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india4"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india5"
+    }
+  ]
+}
