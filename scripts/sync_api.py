@@ -58,12 +58,15 @@ def replace_match_specific(obj):
         return [replace_match_specific(v) for v in obj]
 
     if isinstance(obj, str):
+    if obj.startswith(("http://yonotv.pages.dev/page.html?src",
+                        "https://yonotv.pages.dev/page.html?src")):
         return obj.replace(
-            "https://yonotv.pages.dev/page.html?src",
-            "https://ytvs-frame.pages.dev/frame?ref",
+            "yonotv.pages.dev/page.html?src",
+            "ytvs-frame.pages.dev/frame?ref",
+            1,
         )
-
     return obj
+
 
 
 def extract_match_id(match_link):
