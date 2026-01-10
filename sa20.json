@@ -20,15 +20,15 @@
   },
   "info_sources": [
     {
-      "name": "HD Link 1:SA20 Leagues",
+      "name": "Link 1",
       "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame7.htm"
     },
     {
-      "name": "HD Link 2:SA20 Leagues",
+      "name": "Link 2",
       "url": "https://yonotv-now.pages.dev/ADS"
     },
     {
-      "name": "HD Link 3:SA20 Leagues",
+      "name": "Link 3",
       "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame7.htm"
     }
   ]

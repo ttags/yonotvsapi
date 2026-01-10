@@ -20,27 +20,27 @@
   },
   "info_sources": [
     {
-      "name": "HD Link 1:BPL 2025 LIVE",
+      "name": "Link 1",
       "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL"
     },
     {
-      "name": "HD Link 2:BPL 2025 LIVE",
+      "name": "Link 2",
       "url": "https://yonotv-now.pages.dev/ADS"
     },
     {
-      "name": "HD Link 3:BPL 2025 LIVE",
+      "name": "Link 3",
       "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL2"
     },
     {
-      "name": "Full HD Link 1:BPL 2025 LIVE",
+      "name": "Link 4",
       "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL3"
     },
     {
-      "name": "Full HD Link 2:BPL 2025 LIVE",
+      "name": "Link 5",
       "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL4"
     },
     {
-      "name": "Full HD Link 3:BPL 2025 LIVE",
+      "name": "Link 6",
       "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=BPL5"
     }
   ]
