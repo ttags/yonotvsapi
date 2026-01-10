@@ -126,6 +126,9 @@ def main():
         log(f"Found {len(ids)} match IDs: {', '.join(ids)}")
         write_summary(f"- Matches found: `{', '.join(ids)}`")
 
+        # ---- remove stale ----
+        remove_stale_jsons(ids)
+        
         for mid in ids:
             log(f"Fetching {mid}.json")
             data = fetch_json(f"{BASE_API}/{mid}.json")
