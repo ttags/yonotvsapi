@@ -26,8 +26,8 @@
     "home_flag": "https://images.fancode.com/skillup-uploads/cms-media/BPL-T20.png",
     "away_team": "BPL 2025",
     "away_flag": "https://images.fancode.com/skillup-uploads/cms-media/BPL-T20.png",
-    "start_time": "2026-01-11T17:45:00+05:45",
-    "end_time": "2026-01-12T01:45:00+05:45"
+    "start_time": "2026-01-11T12:45:00+05:45",
+    "end_time": "2026-01-11T22:00:00+05:45"
   },
   {
     "league": "\ud83c\udfc6SA20 Cricket League",
@@ -36,8 +36,8 @@
     "home_flag": "https://upload.wikimedia.org/wikipedia/commons/2/2b/SA20Logo.png",
     "away_team": "SA20",
     "away_flag": "https://upload.wikimedia.org/wikipedia/commons/2/2b/SA20Logo.png",
-    "start_time": "2025-01-10T16:45:00+05:45",
-    "end_time": "2026-01-10T01:45:00+05:45"
+    "start_time": "2025-01-11T19:15:00+05:45",
+    "end_time": "2026-01-12T01:45:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20I Series",
@@ -56,37 +56,7 @@
     "home_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Women%27s_Premier_League.svg/250px-Women%27s_Premier_League.svg.png",
     "away_team": "WPL 2026",
     "away_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Women%27s_Premier_League.svg/250px-Women%27s_Premier_League.svg.png",
-    "start_time": "2026-01-10T15:45:00+05:45",
-    "end_time": "2026-01-10T23:45:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6FA Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=manunited",
-    "home_team": "Exeter city",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9833_small.png",
-    "away_team": "Man City",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-    "start_time": "2026-01-10T20:45:00+05:45",
-    "end_time": "2026-01-10T23:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6FA Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=aston",
-    "home_team": "Aston Villa",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-    "away_team": "Tottenham",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
-    "start_time": "2026-01-10T23:30:00+05:45",
-    "end_time": "2026-01-11T01:45:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6FA Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=chelsea",
-    "home_team": "Charlton",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8451_small.png",
-    "away_team": "Chelsea",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-    "start_time": "2026-01-11T01:45:00+05:45",
-    "end_time": "2026-01-11T04:00:00+05:45"
+    "start_time": "2026-01-11T19:45:00+05:45",
+    "end_time": "2026-01-12T00:15:00+05:45"
   }
 ]
