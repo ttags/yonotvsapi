@@ -16,8 +16,8 @@
     "home_flag": "https://fancode.com/skillup-uploads/prod-images/2021/01/BBL.jpg",
     "away_team": "BBL",
     "away_flag": "https://fancode.com/skillup-uploads/prod-images/2021/01/BBL.jpg",
-    "start_time": "2026-01-13T14:00:00+05:45",
-    "end_time": "2026-01-13T18:00:00+05:45"
+    "start_time": "2026-01-14T14:00:00+05:45",
+    "end_time": "2026-01-14T18:00:00+05:45"
   },
   {
     "league": "\ud83c\udfc6Bangladesh Premier League",
@@ -48,5 +48,15 @@
     "away_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Women%27s_Premier_League.svg/250px-Women%27s_Premier_League.svg.png",
     "start_time": "2026-01-13T19:45:00+05:45",
     "end_time": "2026-01-13T23:45:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6EFL Cup",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=mancity",
+    "home_team": "Newcastle",
+    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+    "away_team": "Man City",
+    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "start_time": "2026-01-14T01:45:00+05:45",
+    "end_time": "2026-01-14T04:00:00+05:45"
   }
 ]
