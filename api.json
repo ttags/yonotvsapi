@@ -48,55 +48,5 @@
     "away_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Women%27s_Premier_League.svg/250px-Women%27s_Premier_League.svg.png",
     "start_time": "2026-01-14T19:45:00+05:45",
     "end_time": "2026-01-14T23:45:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6African Cup Nations",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=egypt",
-    "home_team": "Senegal",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
-    "away_team": "Egypt",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
-    "start_time": "2026-01-14T22:45:00+05:45",
-    "end_time": "2026-01-15T00:45:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6African Cup Nations",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=morocco",
-    "home_team": "Nigeria",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/6346.png",
-    "away_team": "Morocco",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-    "start_time": "2026-01-15T01:45:00+05:45",
-    "end_time": "2026-01-15T03:45:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6Bundesliga",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=bayern",
-    "home_team": "Bayern",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-    "away_team": "FC Koln",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8722.png",
-    "start_time": "2026-01-15T01:15:00+05:45",
-    "end_time": "2026-01-15T03:30:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6EFL Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=chelsea",
-    "home_team": "Chelsea",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-    "away_team": "Arsenal",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-    "start_time": "2026-01-15T01:45:00+05:45",
-    "end_time": "2026-01-15T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6Cope del Rey",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=realmadrid",
-    "home_team": "Albacete",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8393_small.png",
-    "away_team": "Real Madrid",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-    "start_time": "2026-01-15T01:45:00+05:45",
-    "end_time": "2026-01-15T04:00:00+05:45"
   }
 ]
