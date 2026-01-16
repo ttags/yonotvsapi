@@ -26,8 +26,8 @@
     "home_flag": "https://images.fancode.com/skillup-uploads/cms-media/BPL-T20.png",
     "away_team": "BPL 2025",
     "away_flag": "https://images.fancode.com/skillup-uploads/cms-media/BPL-T20.png",
-    "start_time": "2026-01-16T12:45:00+05:45",
-    "end_time": "2026-01-16T22:00:00+05:45"
+    "start_time": "2026-01-16T13:45:00+05:45",
+    "end_time": "2026-01-16T23:45:00+05:45"
   },
   {
     "league": "\ud83c\udfc6SA20 Cricket League",
@@ -36,8 +36,8 @@
     "home_flag": "https://upload.wikimedia.org/wikipedia/commons/2/2b/SA20Logo.png",
     "away_team": "SA20",
     "away_flag": "https://upload.wikimedia.org/wikipedia/commons/2/2b/SA20Logo.png",
-    "start_time": "2026-01-15T19:15:00+05:45",
-    "end_time": "2026-01-16T01:45:00+05:45"
+    "start_time": "2026-01-16T19:15:00+05:45",
+    "end_time": "2026-01-17T01:45:00+05:45"
   },
   {
     "league": "\ud83c\udfc6Women's Premier League",
@@ -46,27 +46,7 @@
     "home_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Women%27s_Premier_League.svg/250px-Women%27s_Premier_League.svg.png",
     "away_team": "WPL 2026",
     "away_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Women%27s_Premier_League.svg/250px-Women%27s_Premier_League.svg.png",
-    "start_time": "2026-01-15T19:45:00+05:45",
-    "end_time": "2026-01-15T23:45:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6COPE del Rey",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=barcelona",
-    "home_team": "Barcelona",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-    "away_team": "Santander",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8696_small.png",
-    "start_time": "2026-01-16T01:45:00+05:45",
-    "end_time": "2026-01-16T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6COPE del Rey",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=acmilan",
-    "home_team": "Como",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10171.png",
-    "away_team": "AC Milan",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
-    "start_time": "2026-01-16T01:30:00+05:45",
-    "end_time": "2026-01-16T03:45:00+05:45"
+    "start_time": "2026-01-16T19:45:00+05:45",
+    "end_time": "2026-01-16T23:45:00+05:45"
   }
 ]
