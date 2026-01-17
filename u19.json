@@ -1,0 +1,39 @@
+{
+  "match": {
+    "title": "IND-19 vs AFG-U19",
+    "date": "15 Jan to Feb 2",
+    "time": "01:45 AM NST",
+    "stadium": "ICC Academy Ground",
+    "league": "ICC U19 ODI WC ",
+    "round": "Group Stage",
+    "broadcaster": "Sony Sports ,Tsports,Ten Sports & YoNoTV",
+    "banner_image": "**",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "India",
+    "lineup": "Ashok Dhami(c) ,Bansha Kshetri, Nischal Kshetri, Nitish Kumar Patel, Chandan Ram, Roshan Bishwakarma, Aparajit Paudel, Cibrin Shrestha, Niraj Yadav, Darsh Sonar, Dilsad Ali, Dayanand Mandal, and Sushil Bahadur Rawal"
+  },
+  "team2": {
+    "name": "UAE",
+    "lineup": "Yayin Rai(c), aAhmed Khodadad, Aliasgar Shums, Ayaan Misbah, Karan Dhiman, Madhav Manoj, Naseem Khan, Noorullah Ayobi, Prithvi Madhu, Rayan Khan, Saleh Amin, Uddish Suri, Yug Sharma, and Zainullah Rahmani."
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=U19"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://yonotv.pages.dev/ADS.html"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=U19B"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=U19A"
+    }
+  ]
+}
