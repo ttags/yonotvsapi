@@ -1,0 +1,47 @@
+{
+  "match": {
+    "title": "Afghanistan vs Zimbabwe",
+    "date": "31 Oct 2025",
+    "time": "05:15 PM NST",
+    "stadium": "Hagley Oval",
+    "league": "T20I Series",
+    "round": "1st match",
+    "broadcaster": "Fancode ,WillowTV",
+    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "Afghanistan",
+    "lineup": "Rahmanullah Gurbaz (wk), Ibrahim Zadran, Sediqullah Atal, Darwish Rasooli, Shahidullah Kamal, Azmatullah Omarzai, Rashid Khan (c), Mohammad Nabi, Mujeeb Ur Rahman, Fareed Ahmad Malik, Abdullah Ahmadzai"
+  },
+  "team2": {
+    "name": "Zimbabwe",
+    "lineup": "Brian Bennett, Tadiwanashe Marumani, Brendan Taylor (wk), Sikandar Raza (c), Ryan Burl, Tony Munyonga, Tashinga Musekiwa, Brad Evans, Tinotenda Maposa/Graeme Cremer, Richard Ngarava, Blessing Muzarabani"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://channel.globalplay.live/fancode/play.php?id=137374"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://dns-tv.pages.dev/VIP/ads.html"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://freeplyrr.pages.dev/plyrr?src=https://wo.cma.footballii.ir/hls2/solh.m3u8"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref="
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://me.webcric.com/frame8.htm"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://dns-tv.pages.dev/VIP/ads.html"
+    }
+  ]
+}
