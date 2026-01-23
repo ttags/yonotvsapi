@@ -21,22 +21,18 @@
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://tvsen5.aynaott.com/Ptvsports/index.m3u8"
-    },
-    {
-      "name": "Link 2",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://justembeds.xyz/embed/2460d86d3892c5f73fb23a159ec07a73"
     },
     {
-      "name": "Link 3",
+      "name": "Link 2",
       "url": "https://dns-tv.pages.dev/VIP/ads.html"
     },
     {
-      "name": "Link 4",
+      "name": "Link 3",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://me.webcric.com/frame10.htm"
     },
     {
-      "name": "Link 5",
+      "name": "Link 4",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://tvsen5.aynaott.com/willowhd/index.m3u8"
     }
   ]
