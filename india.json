@@ -4,19 +4,19 @@
     "date": "18 JAN 2026",
     "time": "01:45 PM NST",
     "stadium": "JSCA Int Stadium ",
-    "league": "ODI Series",
-    "round": "3rd match",
+    "league": "T20I Series",
+    "round": "2ND match",
     "broadcaster": "TNT ,WillowTV, FOX",
-    "banner_image": "https://www.scorewaves.com/image/public/uploads/202502011637ind-vs-eng-1st-odi.webp",
+    "banner_image": "https://images.news9live.com/wp-content/uploads/2025/01/IND-vs-ENG-1st-T20I.jpg",
     "lineup_published": true
   },
   "team1": {
     "name": "IND",
-    "lineup": "Shubman Gill (c), Rohit Sharma, Virat Kohli, Shreyas Iyer, KL Rahul (wk), Ravindra Jadeja, Nitish Kumar Reddy/Ayush Badoni, Harshit Rana, Kuldeep Yadav, Mohammed Siraj, Prasidh Krishna/Arshdeep Singh"
+    "lineup": "Sanju Samson (wk), Abhishek Sharma, Ishan Kishan, Suryakumar Yadav (c), Hardik Pandya, Shivam Dube, Rinku Singh, Arshdeep Singh, Varun Chakaravarthy, Harshit Rana, Kuldeep Yadav"
   },
   "team2": {
     "name": "ENG",
-    "lineup": "Henry Nicholls, Devon Conway, Will Young, Daryl Mitchell, Glenn Phillips, Michael Bracewell (c), Mitchell Hay (wk), Zakary Foulkes, Kristian Clarke, Kyle Jamieson, Jayden Lennox"
+    "lineup": "Tim Seifert, Devon Conway (wk), Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner (c), Zak Foulkes, Matt Henry, Ish Sodhi, Jacob Duffy"
   },
   "info_sources": [
     {
