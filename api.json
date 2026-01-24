@@ -10,7 +10,7 @@
     "end_time": "2026-01-25T23:45:00+05:45"
   },
   {
-    "league": "\ud83c\udfc6Big Bash League 2025",
+    "league": "\ud83c\udfc6Big Bash League-FINAL",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=bbl",
     "home_team": "BBL",
     "home_flag": "https://fancode.com/skillup-uploads/prod-images/2021/01/BBL.jpg",
@@ -64,9 +64,39 @@
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=acc",
     "home_team": "NEP-W",
     "home_flag": "https://dns-tv.pages.dev/logo/can.png",
-    "away_team": "ZIM-W",
-    "away_flag": "https://aimages.willow.tv/teamLogos/zimbabwe.png",
-    "start_time": "2026-01-24T13:00:00+05:45",
-    "end_time": "2026-01-24T17:30:00+05:45"
+    "away_team": "SCO-W",
+    "away_flag": "https://aimages.willow.tv/teamLogos/scotland.png",
+    "start_time": "2026-01-26T09:00:00+05:45",
+    "end_time": "2026-01-26T13:30:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6Premier League",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=mancity",
+    "home_team": "Man City",
+    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "away_team": "Wolves",
+    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
+    "start_time": "2026-01-24T20:45:00+05:45",
+    "end_time": "2026-01-24T23:00:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6Premier League",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=liverpool",
+    "home_team": "Bournemouth",
+    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+    "away_team": "Liverpool",
+    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+    "start_time": "2026-01-24T23:15:00+05:45",
+    "end_time": "2026-01-25T01:30:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6La Liga",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=realmadrid",
+    "home_team": "Real Madrid",
+    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+    "away_team": "Villarreal",
+    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+    "start_time": "2026-01-25T01:45:00+05:45",
+    "end_time": "2026-01-25T04:00:00+05:45"
   }
 ]
