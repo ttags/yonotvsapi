@@ -6,8 +6,8 @@
     "home_flag": "https://aimages.willow.tv/teamLogos/india.png",
     "away_team": "England",
     "away_flag": "https://aimages.willow.tv/teamLogos/england.png",
-    "start_time": "2026-01-23T19:15:00+05:45",
-    "end_time": "2026-01-23T23:45:00+05:45"
+    "start_time": "2026-01-25T19:15:00+05:45",
+    "end_time": "2026-01-25T23:45:00+05:45"
   },
   {
     "league": "\ud83c\udfc6Big Bash League 2025",
@@ -16,18 +16,8 @@
     "home_flag": "https://fancode.com/skillup-uploads/prod-images/2021/01/BBL.jpg",
     "away_team": "BBL",
     "away_flag": "https://fancode.com/skillup-uploads/prod-images/2021/01/BBL.jpg",
-    "start_time": "2026-01-23T14:00:00+05:45",
-    "end_time": "2026-01-23T18:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6BPL-GRAND FINAL",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=bpl",
-    "home_team": "BPL 2025",
-    "home_flag": "https://images.fancode.com/skillup-uploads/cms-media/BPL-T20.png",
-    "away_team": "BPL 2025",
-    "away_flag": "https://images.fancode.com/skillup-uploads/cms-media/BPL-T20.png",
-    "start_time": "2026-01-23T17:45:00+05:45",
-    "end_time": "2026-01-23T23:45:00+05:45"
+    "start_time": "2026-01-25T14:00:00+05:45",
+    "end_time": "2026-01-25T18:00:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20I Series",
