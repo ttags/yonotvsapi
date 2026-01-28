@@ -1,0 +1,47 @@
+{
+  "match": {
+    "title": "Arsenal vs Kairat",
+    "date": "29 JAN 2026",
+    "time": "01:45 AM NST",
+    "stadium": "Fortuna Arena Stadium",
+    "league": "Champions League",
+    "round": "Round 10",
+    "broadcaster": "beIN Sports,Sky Go UK,NBC",
+    "banner_image": "xx",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "XX"
+  },
+  "team2": {
+    "name": "japan",
+    "lineup": "XXX"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://play7ba.peodlc.com/sport/202_3960811_1.m3u8"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://play7ba.peodlc.com/sport/202_3960811_2.m3u8"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://yonotv-now.pages.dev/ADS.html"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/soco?id=513394"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/soco?id=400722"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/soco?id=344370"
+    }
+  ]
+}
