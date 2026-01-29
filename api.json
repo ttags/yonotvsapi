@@ -58,5 +58,15 @@
     "away_flag": "https://aimages.willow.tv/teamLogos/australia.png",
     "start_time": "2026-01-29T16:45:00+05:45",
     "end_time": "2026-01-29T21:00:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6Practice Match",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nepal",
+    "home_team": "Nepal",
+    "home_flag": "https://dns-tv.pages.dev/logo/can.png",
+    "away_team": "MCA XI",
+    "away_flag": "https://aimages.willow.tv/teamLogos/india.png",
+    "start_time": "2026-01-29T18:00:00+05:45",
+    "end_time": "2026-01-29T22:00:00+05:45"
   }
 ]

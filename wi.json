@@ -1,7 +1,7 @@
 {
   "match": {
     "title": "WI vs SA",
-    "date": "27 JAN 2026",
+    "date": "29 JAN 2026",
     "time": "09:45 PM NST",
     "stadium": "SuperSport Park Cricket Stadium",
     "league": "T20I SERIES",
@@ -21,7 +21,7 @@
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/w1"
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/w2"
     },
     {
       "name": "Link 2",
@@ -29,6 +29,10 @@
     },
     {
       "name": "Link 3",
+      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/skycricket.htm"
+    },
+    {
+      "name": "Link 4",
       "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame7.htm"
     }
   ]

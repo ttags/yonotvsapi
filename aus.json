@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "Australia vs England",
-    "date": "17 Dec 2025",
+    "title": "Australia vs Pakistan",
+    "date": "29 JAN 2026",
     "time": "05:15 AM NST",
     "stadium": "Perth Stadium",
-    "league": "Test Series",
+    "league": "T20I Series",
     "round": "3rd match",
     "broadcaster": "WillowTV, Sky sports , TNT Sports , Sony Sports",
-    "banner_image": "https://www.shutterstock.com/image-illustration/karachipakistan-29-may-2024-india-600nw-2469266093.jpg",
+    "banner_image": "xx",
     "lineup_published": false
   },
   "team1": {
@@ -15,17 +15,17 @@
     "lineup": "Rahmanullah Gurbaz (wk), Ibrahim Zadran, Sediqullah Atal, Darwish Rasooli, Shahidullah Kamal, Azmatullah Omarzai, Rashid Khan (c), Mohammad Nabi, Mujeeb Ur Rahman, Fareed Ahmad Malik, Abdullah Ahmadzai"
   },
   "team2": {
-    "name": "England",
+    "name": "Pakistan",
     "lineup": "Brian Bennett, Tadiwanashe Marumani, Brendan Taylor (wk), Sikandar Raza (c), Ryan Burl, Tony Munyonga, Tashinga Musekiwa, Brad Evans, Tinotenda Maposa/Graeme Cremer, Richard Ngarava, Blessing Muzarabani"
   },
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/w1"
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/tnt1"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://me.webcric.com/frame3.htm"
     },
     {
       "name": "Link 3",
@@ -33,15 +33,7 @@
     },
     {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://embedsports.top/embed/admin/ppv-australia-vs-england/1"
-    },
-    {
-      "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8"
-    },
-    {
-      "name": "Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://me.webcric.com/frame4.htm"
     }
   ]
 }
