@@ -16,8 +16,8 @@
     "home_flag": "https://aimages.willow.tv/teamLogos/india.png",
     "away_team": "England",
     "away_flag": "https://aimages.willow.tv/teamLogos/england.png",
-    "start_time": "2026-01-28T19:15:00+05:45",
-    "end_time": "2026-01-28T23:45:00+05:45"
+    "start_time": "2026-01-31T19:15:00+05:45",
+    "end_time": "2026-01-31T23:45:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20I Series",
@@ -58,115 +58,5 @@
     "away_flag": "https://aimages.willow.tv/teamLogos/australia.png",
     "start_time": "2026-01-29T16:45:00+05:45",
     "end_time": "2026-01-29T21:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=arsenal",
-    "home_team": "Arsenal",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-    "away_team": "Kairat",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8037_small.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=realmadrid",
-    "home_team": "Real Madrid",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-    "away_team": "Benfica",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9772.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=barcelona",
-    "home_team": "Barcelona",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-    "away_team": "Copenhagen",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=mancity",
-    "home_team": "Man City",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-    "away_team": "Galatasaray",
-    "away_flag": "https://cdn.jsdelivr.net/gh/rsmouk/teams@main/tur_galatasaray.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=psg",
-    "home_team": "PSG",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
-    "away_team": "Newcastle",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=chelsea",
-    "home_team": "Chelsea",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-    "away_team": "Napoli",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=liverpool",
-    "home_team": "Liverpool",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-    "away_team": "Qarabag",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/7981_small.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=bayern",
-    "home_team": "Bayern",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-    "away_team": "PSV",
-    "away_flag": "https://cdn.jsdelivr.net/gh/rsmouk/teams@main/net_psv.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=intermilan",
-    "home_team": "Inter",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-    "away_team": "Dortmund",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=tottenham",
-    "home_team": "Tottenham",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
-    "away_team": "Frankfurt",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6UEFA Champions League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=atletico",
-    "home_team": "Atletico Madrid",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-    "away_team": "Bodo Glimt",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",
-    "start_time": "2026-01-29T01:45:00+05:45",
-    "end_time": "2026-01-29T04:00:00+05:45"
   }
 ]
