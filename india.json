@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "IND vs ENG",
+    "title": "IND vs NZ",
     "date": "25 JAN 2026",
     "time": "07:15 PM NST",
     "stadium": "JSCA Int Stadium ",
     "league": "T20I Series",
     "round": "3rd match",
     "broadcaster": "TNT ,WillowTV, FOX",
-    "banner_image": "https://images.news9live.com/wp-content/uploads/2025/01/IND-vs-ENG-1st-T20I.jpg",
+    "banner_image": "https://images.news9live.com/wp-content/uploads/2025/01/IND-vs-NZ-1st-T20I.jpg",
     "lineup_published": true
   },
   "team1": {
@@ -15,7 +15,7 @@
     "lineup": "Sanju Samson (wk), Abhishek Sharma, Ishan Kishan, Suryakumar Yadav (c), Hardik Pandya, Shivam Dube, Rinku Singh, Arshdeep Singh, Varun Chakaravarthy, Harshit Rana, Kuldeep Yadav"
   },
   "team2": {
-    "name": "ENG",
+    "name": "NZ",
     "lineup": "Tim Seifert, Devon Conway (wk), Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner (c), Zak Foulkes, Matt Henry, Ish Sodhi, Jacob Duffy"
   },
   "info_sources": [
