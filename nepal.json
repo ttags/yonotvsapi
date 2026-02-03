@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "Nepal vs MCA 11",
-    "date": "29 JAN 2026",
-    "time": "06:00 PM NST",
-    "stadium": "INDIA",
-    "league": "PRACTICE MATCH",
+    "title": "Nepal vs UAE",
+    "date": "03 FEB 2026",
+    "time": "05:15 PM NST",
+    "stadium": "MA Chidambaram Stadium",
+    "league": "T20 World Cup warm-up matches",
     "round": "1st Match",
     "broadcaster": "YonoTV",
-    "banner_image": "XX",
+    "banner_image": "https://i0.wp.com/cricketwebs.com/wp-content/uploads/2025/10/Nepal-vs-United-Arab-Emirates.jpg",
     "lineup_published": false
   },
   "team1": {
