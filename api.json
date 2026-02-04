@@ -20,14 +20,14 @@
     "end_time": "2026-02-06T00:15:00+05:45"
   },
   {
-    "league": "\ud83c\udfc6U19 ODI World Cup",
+    "league": "\ud83c\udfc6U19 World Cup-FINAL",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=u19",
     "home_team": "IND-U19",
     "home_flag": "https://aimages.willow.tv/teamLogos/india.png",
-    "away_team": "AFG-U19",
-    "away_flag": "https://aimages.willow.tv/teamLogos/afghanistan.png",
-    "start_time": "2026-02-04T13:15:00+05:45",
-    "end_time": "2026-02-04T21:15:00+05:45"
+    "away_team": "ENG-U19",
+    "away_flag": "https://aimages.willow.tv/teamLogos/england.png",
+    "start_time": "2026-02-06T13:15:00+05:45",
+    "end_time": "2026-02-06T20:45:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20 WC Warm-up Match",
@@ -37,6 +37,16 @@
     "away_team": "South Africa",
     "away_flag": "https://aimages.willow.tv/teamLogos/southafrica.png",
     "start_time": "2026-02-04T19:15:00+05:45",
-    "end_time": "2026-02-04T23:45:00+05:45"
+    "end_time": "2026-02-04T23:00:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6EFL Cup",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=mancity",
+    "home_team": "Man City",
+    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "away_team": "Newcastle",
+    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+    "start_time": "2026-02-05T01:45:00+05:45",
+    "end_time": "2026-02-05T04:00:00+05:45"
   }
 ]
