@@ -1,0 +1,39 @@
+{
+  "match": {
+    "title": "PAK vs SL",
+    "date": "11 JAN 2026",
+    "time": "07:45 PM NST",
+    "stadium": "Rawalpindi Cricket Stadium",
+    "league": "T20I Series",
+    "round": "3rd match",
+    "broadcaster": "WillowTV, AsportsHD",
+    "banner_image": "https://images.mykhel.com/img/2025/11/pak-vs-sl-live-streaming3-1763810475.jpg",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "PAK",
+    "lineup": "Salman Ali Agha (c), Hasan Nawaz, Abrar Ahmed, Babar Azam, Faheem Ashraf, Mohammad Nawaz, Mohammad Wasim Jnr, Mohammad Salman Mirza, Naseem Shah, Sahibzada Farhan, Saim Ayub, Shaheen Shah Afridi, Usman Khan (wk), Usman Tariq, Fakhar Zaman"
+  },
+  "team2": {
+    "name": "SL",
+    "lineup": "Dasun Shanaka (c), Pathum Nissanka, Kusal Mendis (wk), Kusal Perera (wk), Kamil Mishara,Kamindu Mendis, Bhanuka Rajapaksa (wk), Janith Liyanage, Wanindu Hasaranga, Maheesh Theekshana, Dushan Hemantha, Dushmantha Chameera, Nuwan Thushara, Eshan Malinga, Pavan Rathnayake, Vijayakanth Viyaskanth"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://live-en.aisports.cc/moviebox/football001/playlist.m3u8"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/tnt4"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://yonotv.pages.dev/ADS"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://me.webcric.com/frame3.htm"
+    }
+  ]
+}

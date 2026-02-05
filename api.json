@@ -1,15 +1,5 @@
 [
   {
-    "league": "\ud83c\udfc6T20 WC Warm-up Match",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nepal",
-    "home_team": "Nepal",
-    "home_flag": "https://dns-tv.pages.dev/logo/can.png",
-    "away_team": "Canada",
-    "away_flag": "https://aimages.willow.tv/teamLogos/canada.png",
-    "start_time": "2026-02-05T13:15:00+05:45",
-    "end_time": "2026-02-05T16:45:00+05:45"
-  },
-  {
     "league": "\ud83c\udfc6Women's Premier League-FINAL",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=wpl",
     "home_team": "WPL 2026",
@@ -31,22 +21,52 @@
   },
   {
     "league": "\ud83c\udfc6T20 WC Warm-up Match",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nz",
+    "home_team": "New Zealand",
+    "home_flag": "https://aimages.willow.tv/teamLogos/newzealand.png",
+    "away_team": "USA",
+    "away_flag": "https://aimages.willow.tv/teamLogos/usa.png",
+    "start_time": "2026-02-05T19:15:00+05:45",
+    "end_time": "2026-02-05T23:00:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6T20 WC Warm-up Match",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=india",
+    "home_team": "India-A",
+    "home_flag": "https://aimages.willow.tv/teamLogos/india.png",
+    "away_team": "Namibia",
+    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/5802.png",
+    "start_time": "2026-02-06T17:15:00+05:45",
+    "end_time": "2026-02-06T21:15:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6T20 World Cup 2026",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=pak",
+    "home_team": "Pakistan",
+    "home_flag": "https://aimages.willow.tv/teamLogos/pakistan.png",
+    "away_team": "Netherlands",
+    "away_flag": "https://aimages.willow.tv/teamLogos/netherlands.png",
+    "start_time": "2026-02-07T11:15:00+05:45",
+    "end_time": "2026-02-07T15:15:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6T20 World Cup 2026",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=wi",
+    "home_team": "West Indies",
+    "home_flag": "https://aimages.willow.tv/teamLogos/westindies.png",
+    "away_team": "Scotland",
+    "away_flag": "https://aimages.willow.tv/teamLogos/scotland.png",
+    "start_time": "2026-02-07T15:15:00+05:45",
+    "end_time": "2026-02-07T19:15:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6T20 World Cup 2026",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=india",
     "home_team": "India",
     "home_flag": "https://aimages.willow.tv/teamLogos/india.png",
-    "away_team": "South Africa",
-    "away_flag": "https://aimages.willow.tv/teamLogos/southafrica.png",
-    "start_time": "2026-02-04T19:15:00+05:45",
-    "end_time": "2026-02-04T23:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6EFL Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=mancity",
-    "home_team": "Man City",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-    "away_team": "Newcastle",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-    "start_time": "2026-02-05T01:45:00+05:45",
-    "end_time": "2026-02-05T04:00:00+05:45"
+    "away_team": "USA",
+    "away_flag": "https://aimages.willow.tv/teamLogos/usa.png",
+    "start_time": "2026-02-07T19:15:00+05:45",
+    "end_time": "2026-02-07T23:30:00+05:45"
   }
 ]

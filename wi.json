@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "WPL-FINAL",
-    "date": "05 FEB 2026",
-    "time": "07:45 PM NST",
-    "stadium": "MUMBAI",
-    "league": "WPL-FINAL",
-    "round": "FINAL",
+    "title": "WI vs SA",
+    "date": "29 JAN 2026",
+    "time": "09:45 PM NST",
+    "stadium": "SuperSport Park Cricket Stadium",
+    "league": "T20I SERIES",
+    "round": "Groups stage",
     "broadcaster": "Youtube , YoNoTV",
-    "banner_image": "https://www.wplt20.com/static-assets/waf-images/d5/5b/55/0/image-b1878709-13a3-4c00-8af9-b5b0e5a96ebe.jpg",
+    "banner_image": "https://crickettimes.com/wp-content/uploads/2026/01/SA-vs-WI-1st-T20I-Boland-Park-Pitch-Report-T20-Stats-and-Records.webp",
     "lineup_published": false
   },
   "team1": {
@@ -25,15 +25,15 @@
     },
     {
       "name": "Link 2",
-      "url": "https://yonotv-now.pages.dev/page?src=https://player.kick.com/65656576"
+      "url": "https://yonotv-now.pages.dev/ADS"
     },
     {
       "name": "Link 3",
-      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/wtv"
+      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/skycricket.htm"
     },
     {
       "name": "Link 4",
-      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame8.htm"
+      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame7.htm"
     }
   ]
 }
