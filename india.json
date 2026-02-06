@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "IND vs SA",
-    "date": "04 FEB 2026",
-    "time": "07:15 PM NST",
+    "title": "IND-A vs NAM",
+    "date": "06 FEB 2026",
+    "time": "05:15 PM NST",
     "stadium": "JSCA Int Stadium ",
     "league": "T20 WC Warm-up Match",
     "round": "1ST MATCH",
     "broadcaster": "TNT ,WillowTV, FOX",
-    "banner_image": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1200/sources/r1/cms/prod/8490/1770145508490-h",
+    "banner_image": "XX",
     "lineup_published": true
   },
   "team1": {

@@ -1,22 +1,22 @@
 {
   "match": {
-    "title": "IND-19 vs AFG-U19",
-    "date": "01 FEB 2026",
-    "time": "01:45 AM NST",
+    "title": "IND-19 vs ENG-U19",
+    "date": "06 FEB 2026",
+    "time": "01:15 AM NST",
     "stadium": "ICC Academy Ground",
-    "league": "ICC U19 ODI WC ",
-    "round": "Group Stage",
+    "league": "ICC U19 ODI World Cup",
+    "round": "FINAL",
     "broadcaster": "Sony Sports ,Tsports,Ten Sports & YoNoTV",
-    "banner_image": "**",
-    "lineup_published": false
+    "banner_image": "https://cricketman2.com/wp-content/uploads/2026/02/IND-VS-ENG-Final-Super-Six-Dream11-Team-Prediction-India-U19-tour-of-England-U19-2026.webp",
+    "lineup_published": true
   },
   "team1": {
-    "name": "India",
-    "lineup": "Ashok Dhami(c) ,Bansha Kshetri, Nischal Kshetri, Nitish Kumar Patel, Chandan Ram, Roshan Bishwakarma, Aparajit Paudel, Cibrin Shrestha, Niraj Yadav, Darsh Sonar, Dilsad Ali, Dayanand Mandal, and Sushil Bahadur Rawal"
+    "name": "IND-U19",
+    "lineup": "Aaron George, Vaibhav Sooryavanshi, Ayush Mhatre(c), Vihaan Malhotra, Vedant Trivedi, Abhigyan Kundu(w), RS Ambrish, Kanishk Chouhan, Khilan Patel, Henil Patel, Deepesh Devendran"
   },
   "team2": {
-    "name": "UAE",
-    "lineup": "Yayin Rai(c), aAhmed Khodadad, Aliasgar Shums, Ayaan Misbah, Karan Dhiman, Madhav Manoj, Naseem Khan, Noorullah Ayobi, Prithvi Madhu, Rayan Khan, Saleh Amin, Uddish Suri, Yug Sharma, and Zainullah Rahmani."
+    "name": "ENG-U19",
+    "lineup": "Ben Dawkins, Joseph Moores, Ben Mayes, Thomas Rew(w/c), Caleb Falconer, Ralphie Albert, Farhan Ahmed, Sebastian Morgan, James Minto, Manny Lumsden, Alex Green"
   },
   "info_sources": [
     {
