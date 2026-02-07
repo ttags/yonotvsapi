@@ -1,39 +1,47 @@
 {
   "match": {
-    "title": "WI vs SA",
-    "date": "29 JAN 2026",
-    "time": "09:45 PM NST",
-    "stadium": "SuperSport Park Cricket Stadium",
-    "league": "T20I SERIES",
-    "round": "Groups stage",
-    "broadcaster": "Youtube , YoNoTV",
-    "banner_image": "https://crickettimes.com/wp-content/uploads/2026/01/SA-vs-WI-1st-T20I-Boland-Park-Pitch-Report-T20-Stats-and-Records.webp",
-    "lineup_published": false
+    "title": "WI vs SCO",
+    "date": "07 FEB 2026",
+    "time": "11:15 PM NST",
+    "stadium": "Eden Gardens",
+    "league": "T20 World Cup 2026",
+    "round": "Group stage",
+    "broadcaster": "WillowTV, AsportsHD",
+    "banner_image": "https://www.cricketbatpro.com/wp-content/uploads/2026/02/WI-V-Scotland-ICC-Mens-T20-World-Cup-2026.webp",
+    "lineup_published": true
   },
   "team1": {
-    "name": "Lumbini",
-    "lineup": "D Arcy Short, Dinesh Adhikari, Rohit Paudel (c), Sundeep Jora, Niroshan Dickwella (wk), Dilip Nath, JJ Smit, Ruben Trumpelmann, Sher Malla, Abhishesh Gautam, Tilak Bhandari, Aadil Khan, Durgesh Gupta, Thomas Draca, Sumit Maharjan, Bishal Patel, and Sameer Ali Musalman."
+    "name": "WI",
+    "lineup": " Brandon King, Shai Hope(w/c), Johnson Charles, Roston Chase, Rovman Powell, Sherfane Rutherford, Quentin Sampson, Jason Holder, Akeal Hosein, Matthew Forde, Shamar Joseph, Shimron Hetmyer, Gudakesh Motie, Romario Shepherd, Jayden Seales"
   },
   "team2": {
-    "name": "Sudurpaschim",
-    "lineup": "Dipendra Singh Airee (c), Josh Brown, Binod Bhandari(wk), Chris Lynn, Aarif Sheikh, Harmeet Singh, Ishan Pandey, Scott Kuggeleijn, Naren Saud, Hemant Dhami, Abinash Bohara, Dipak Bohara, Milan Bohara, Dipendra Thapa, Tek Rawa"
+    "name": "SCO",
+    "lineup": "Michael Jones, Mark Watt, Brandon McMullen, Richie Berrington(c), Tom Bruce, Matthew Cross(w), Oliver Davidson, Brad Currie, Zainullah Ihsan, Brad Wheal, Safyaan Sharif, Michael Leask, George Munsey, Finlay McCreath, Chris Greaves"
   },
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/w2"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=WI"
     },
     {
       "name": "Link 2",
-      "url": "https://yonotv-now.pages.dev/ADS"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=WI2"
     },
     {
       "name": "Link 3",
-      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/skycricket.htm"
+      "url": "https://yonotv.pages.dev/ADS"
     },
     {
       "name": "Link 4",
-      "url": "https://yonotv-now.pages.dev/page?src=https://me.webcric.com/frame7.htm"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=WI3"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=WI4"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=WI5"
     }
   ]
 }
