@@ -1,10 +1,10 @@
 {
   "match": {
-    "title": "Newcastle vs PSV",
-    "date": "22 JAN 2025",
+    "title": "Newcastle vs Brentford",
+    "date": "07 FEB 2026",
     "time": "01:45 AM NST",
     "stadium": "Etihad Stadium",
-    "league": "UEFA",
+    "league": "Premier League",
     "round": "Round 10",
     "broadcaster": "beIN Sports,Sky Go UK,NBC",
     "banner_image": "xxx",
@@ -21,11 +21,11 @@
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://play7ba.peodlc.com/sport/202_3960718_1.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://live5.msrktz.app/live/97312754.m3u8"
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://play7ba.peodlc.com/sport/202_3960718_2.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://gametimes.plus/home/blog1/"
     },
     {
       "name": "Link 3",
@@ -33,15 +33,11 @@
     },
     {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/soco?id=336303"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/soco?id=387694"
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/soco?id=336303"
-    },
-    {
-      "name": "Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/soco?id=327159"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/soco?id=414317"
     }
   ]
 }

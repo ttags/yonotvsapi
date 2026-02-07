@@ -1,93 +1,43 @@
 [
   {
     "league": "\ud83c\udfc6T20 World Cup 2026",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=pak",
-    "home_team": "Pakistan",
-    "home_flag": "https://aimages.willow.tv/teamLogos/pakistan.png",
-    "away_team": "Netherlands",
-    "away_flag": "https://aimages.willow.tv/teamLogos/netherlands.png",
-    "start_time": "2026-02-07T11:15:00+05:45",
-    "end_time": "2026-02-07T15:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6T20 World Cup 2026",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=wi",
-    "home_team": "West Indies",
-    "home_flag": "https://aimages.willow.tv/teamLogos/westindies.png",
-    "away_team": "Scotland",
-    "away_flag": "https://aimages.willow.tv/teamLogos/scotland.png",
-    "start_time": "2026-02-07T15:15:00+05:45",
-    "end_time": "2026-02-07T19:15:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6T20 World Cup 2026",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=india",
     "home_team": "India",
     "home_flag": "https://aimages.willow.tv/teamLogos/india.png",
     "away_team": "USA",
     "away_flag": "https://aimages.willow.tv/teamLogos/usa.png",
     "start_time": "2026-02-07T19:15:00+05:45",
-    "end_time": "2026-02-07T23:30:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6Premier League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=manunited",
-    "home_team": "Man United",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-    "away_team": "Tottenham",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
-    "start_time": "2026-02-07T18:15:00+05:45",
-    "end_time": "2026-02-07T20:30:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6Premier League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=aston",
-    "home_team": "Aston Villa",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-    "away_team": "Bournemouth",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-    "start_time": "2026-02-07T20:45:00+05:45",
-    "end_time": "2026-02-07T23:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6Premier League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=arsenal",
-    "home_team": "Arsenal",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-    "away_team": "Sunderland",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png",
-    "start_time": "2026-02-07T20:45:00+05:45",
-    "end_time": "2026-02-07T23:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6Premier League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=chelsea",
-    "home_team": "Chelsea",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-    "away_team": "Wolves",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
-    "start_time": "2026-02-07T20:45:00+05:45",
-    "end_time": "2026-02-07T23:00:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6La Liga",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=barcelona",
-    "home_team": "Barcelona",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-    "away_team": "Mallorca",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
-    "start_time": "2026-02-07T21:00:00+05:45",
     "end_time": "2026-02-07T23:15:00+05:45"
   },
   {
-    "league": "\ud83c\udfc6Club Friendly",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=inter",
-    "home_team": "Inter Miami",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
-    "away_team": "Barcelona SC",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/6453_small.png",
-    "start_time": "2026-02-08T05:45:00+05:45",
-    "end_time": "2026-02-08T08:00:00+05:45"
+    "league": "\ud83c\udfc6T20 World Cup 2026",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nz",
+    "home_team": "New Zealand",
+    "home_flag": "https://aimages.willow.tv/teamLogos/newzealand.png",
+    "away_team": "Afghanistan",
+    "away_flag": "https://aimages.willow.tv/teamLogos/afghanistan.png",
+    "start_time": "2026-02-08T11:15:00+05:45",
+    "end_time": "2026-02-08T15:00:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6T20 World Cup 2026",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nepal",
+    "home_team": "England",
+    "home_flag": "https://aimages.willow.tv/teamLogos/england.png",
+    "away_team": "Nepal",
+    "away_flag": "https://dns-tv.pages.dev/logo/can.png",
+    "start_time": "2026-02-08T15:15:00+05:45",
+    "end_time": "2026-02-08T19:00:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6T20 World Cup 2026",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=sl",
+    "home_team": "Sri Lanka",
+    "home_flag": "https://aimages.willow.tv/teamLogos/srilanka.png",
+    "away_team": "Ireland",
+    "away_flag": "https://aimages.willow.tv/teamLogos/ireland.png",
+    "start_time": "2026-02-08T19:15:00+05:45",
+    "end_time": "2026-02-08T23:15:00+05:45"
   },
   {
     "league": "\ud83c\udfc6Premier League",
