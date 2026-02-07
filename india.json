@@ -1,47 +1,51 @@
 {
   "match": {
-    "title": "IND-A vs NAM",
-    "date": "06 FEB 2026",
-    "time": "05:15 PM NST",
-    "stadium": "JSCA Int Stadium ",
-    "league": "T20 WC Warm-up Match",
-    "round": "1ST MATCH",
-    "broadcaster": "TNT ,WillowTV, FOX",
-    "banner_image": "https://mhdtvp.com/upload/1000071001-Photoroom.png",
+    "title": "IND vs USA",
+    "date": "07 FEB 2026",
+    "time": "07:15 PM NST",
+    "stadium": "Wankhede Stadium, Mumbai",
+    "league": "T20 World Cup 2026",
+    "round": "Group stage",
+    "broadcaster": "WillowTV, AsportsHD,STAR SPORTS",
+    "banner_image": "https://sportzons.com/wp-content/uploads/2026/02/IND-vs-USA-T20-World-Cup-2026-Preview-Match-Time-Squad-Winning-Prediction.webp",
     "lineup_published": true
   },
   "team1": {
     "name": "IND",
-    "lineup": "Sanju Samson (wk), Abhishek Sharma, Ishan Kishan, Suryakumar Yadav (c), Hardik Pandya, Shivam Dube, Rinku Singh, Arshdeep Singh, Varun Chakaravarthy, Harshit Rana, Kuldeep Yadav"
+    "lineup": "Ishan Kishan (wk),Suryakumar Yadav (c)Abhishek Sharma,Tilak Varma,Rinku Singh,Hardik Pandya,Axar Patel,Shivam Dube,Jasprit Bumrah,Arshdeep Singh,Mohammed Siraj,Varun Chakaravarthy,Kuldeep Yadav,Sanju Samson,Washington Sundar,"
   },
   "team2": {
-    "name": "SA",
-    "lineup": "Tim Seifert, Devon Conway (wk), Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner (c), Zak Foulkes, Matt Henry, Ish Sodhi, Jacob Duffy"
+    "name": "USA",
+    "lineup": "Monank Patel (c),Andries Gous (wk)Saiteja Mukkamalla,Shayan Jahangir,Milind Kumar,Shubham Ranjane,Harmeet Singh,Mohammad Mohsin,Ali Khan,Nosthush Kenjige,Saurabh Netravalkar,Shadley van Schalkwyk,Shehan Jayasuriya,Jasdeep Singh,Sanjay Krishnamurthi,"
   },
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND"
     },
     {
       "name": "Link 2",
-      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india2"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND2"
     },
     {
       "name": "Link 3",
-      "url": "https://yonotv-now.pages.dev/ADS.html"
+      "url": "https://yonotv.pages.dev/ADS"
     },
     {
       "name": "Link 4",
-      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india3"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND3"
     },
     {
       "name": "Link 5",
-      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india4"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND4"
     },
     {
       "name": "Link 6",
-      "url": "https://yonotv.pages.dev/page?src=https://yonotv-now.pages.dev/LINK?id=india5"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND5"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND6"
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "match": {
+    "title": "Inter Miami vs Whitecaps",
+    "date": "06 DEC 2025",
+    "time": "11:15 PM NST",
+    "stadium": "Geodis Park",
+    "league": "MLS",
+    "round": "Round 8",
+    "broadcaster": "beIN Sports,Sky Go UK,NBC",
+    "banner_image": "xx",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan",
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://freeplyrr.pages.dev/page?src=https://yonotv-now.pages.dev/soco?id=494201"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://dns-tv.pages.dev/VIP/ads.html"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://freeplyrr.pages.dev/page?src=https://yonotv-now.pages.dev/soco?id=531989"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://freeplyrr.pages.dev/page?src=https://yonotv-now.pages.dev/soco?id=494201"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://freeplyrr.pages.dev/page?src=https://yonotv-now.pages.dev/soco?id=472241"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://dns-tv.pages.dev/VIP/ads.html"
+    }
+  ]
+}
