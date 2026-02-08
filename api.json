@@ -1,16 +1,6 @@
 [
   {
     "league": "\ud83c\udfc6T20 World Cup 2026",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=india",
-    "home_team": "India",
-    "home_flag": "https://aimages.willow.tv/teamLogos/india.png",
-    "away_team": "USA",
-    "away_flag": "https://aimages.willow.tv/teamLogos/usa.png",
-    "start_time": "2026-02-07T19:15:00+05:45",
-    "end_time": "2026-02-07T23:15:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6T20 World Cup 2026",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=nz",
     "home_team": "New Zealand",
     "home_flag": "https://aimages.willow.tv/teamLogos/newzealand.png",
@@ -38,15 +28,5 @@
     "away_flag": "https://aimages.willow.tv/teamLogos/ireland.png",
     "start_time": "2026-02-08T19:15:00+05:45",
     "end_time": "2026-02-08T23:15:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6Premier League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=newcastle",
-    "home_team": "Newcastle",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-    "away_team": "Brentford",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-    "start_time": "2026-02-07T23:15:00+05:45",
-    "end_time": "2026-02-08T01:30:00+05:45"
   }
 ]
