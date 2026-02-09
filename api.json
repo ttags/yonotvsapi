@@ -1,32 +1,32 @@
 [
   {
     "league": "\ud83c\udfc6T20 World Cup 2026",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nz",
-    "home_team": "New Zealand",
-    "home_flag": "https://aimages.willow.tv/teamLogos/newzealand.png",
-    "away_team": "Afghanistan",
-    "away_flag": "https://aimages.willow.tv/teamLogos/afghanistan.png",
-    "start_time": "2026-02-08T11:15:00+05:45",
-    "end_time": "2026-02-08T15:00:00+05:45"
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=scotland",
+    "home_team": "Scotland",
+    "home_flag": "https://aimages.willow.tv/teamLogos/scotland.png",
+    "away_team": "Italy",
+    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
+    "start_time": "2026-02-09T11:15:00+05:45",
+    "end_time": "2026-02-09T15:00:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20 World Cup 2026",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nepal",
-    "home_team": "England",
-    "home_flag": "https://aimages.willow.tv/teamLogos/england.png",
-    "away_team": "Nepal",
-    "away_flag": "https://dns-tv.pages.dev/logo/can.png",
-    "start_time": "2026-02-08T15:15:00+05:45",
-    "end_time": "2026-02-08T19:00:00+05:45"
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=zim",
+    "home_team": "Zimbabwe",
+    "home_flag": "https://aimages.willow.tv/teamLogos/zimbabwe.png",
+    "away_team": "Oman",
+    "away_flag": "https://aimages.willow.tv/teamLogos/oman.png",
+    "start_time": "2026-02-09T15:15:00+05:45",
+    "end_time": "2026-02-09T19:00:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20 World Cup 2026",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=sl",
-    "home_team": "Sri Lanka",
-    "home_flag": "https://aimages.willow.tv/teamLogos/srilanka.png",
-    "away_team": "Ireland",
-    "away_flag": "https://aimages.willow.tv/teamLogos/ireland.png",
-    "start_time": "2026-02-08T19:15:00+05:45",
-    "end_time": "2026-02-08T23:15:00+05:45"
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=sa",
+    "home_team": "South Africaa",
+    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png",
+    "away_team": "Canada",
+    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
+    "start_time": "2026-02-09T19:15:00+05:45",
+    "end_time": "2026-02-09T23:15:00+05:45"
   }
 ]
