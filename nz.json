@@ -1,22 +1,22 @@
 {
   "match": {
-    "title": "NZ vs AFG",
-    "date": "08 FEB 2026",
-    "time": "11:15 AM NST",
+    "title": "NZ vs UAE",
+    "date": "10 FEB 2026",
+    "time": "03:15 PM NST",
     "stadium": "MA Chidambaram Stadium",
     "league": "T20 World Cup",
     "round": "Group Stage",
-    "broadcaster": "Fancode ,WillowTV , Prime",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/ahfpm7qfhgu3isv2dfnf",
+    "broadcaster": "Fancode,WillowTV,Prime",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/as3y4jwgg2yuihagm9pa",
     "lineup_published": true
   },
   "team1": {
     "name": "NZ",
-    "lineup": "Tim Seifert (wk),Mitchell Santner (c)Finn Allen,Rachin Ravindra,Glenn Phillips,Daryl Mitchell,Michael Bracewell,Kyle Jamieson,Ish Sodhi,Lockie Ferguson,Jacob Duffy,James Neesham,Matt Henry,Devon Conway,Mark Chapman"
+    "lineup": "Finn Allen, Tim Seifert (wk), Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner (c), James Neesham, Matt Henry, Lockie Ferguson, Jacob Duffy"
   },
   "team2": {
-    "name": "AFG",
-    "lineup": "Rahmanullah Gurbaz (wk),Rashid Khan (c)Ibrahim Zadran,Sediqullah Atal,Darwish Rasooli,Azmatullah Omarzai,Mohammad Nabi,Gulbadin Naib,Noor Ahmad,Mujeeb Ur Rahman,Fazalhaq Farooqi,Shahidullah Kamal,Mohammad Ishaq,Ziaur Rahman Sharifi,Abdullah Ahmadzai,"
+    "name": "UAE",
+    "lineup": "Muhammad Waseem (c), Aryansh Sharma (wk), Alishan Sharafu, Sohaib Khan, Harshit Kaushik, Mayank Kumar, Dhruv Parashar, Muhammad Arfan, Haider Ali, Junaid Siddique, Muhammad Jawadullah"
   },
   "info_sources": [
     {
