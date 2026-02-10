@@ -1,0 +1,47 @@
+{
+  "match": {
+    "title": "NED vs NAM",
+    "date": "10 FEB 2026",
+    "time": "11:15 AM (NP Time) ",
+    "stadium": "Arun Jaitley Stadium, Delhi",
+    "league": "T20 World Cup",
+    "round": "Group Stage",
+    "broadcaster": "WillowTV , Prime , ICC TV",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/v1770696360/prd/sfycijzqlx8kpj8q8x0f",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "NED",
+    "lineup": "Michael Levitt, Max ODowd, Bas de Leede, Colin Ackermann, Scott Edwards(w/c), Zach Lion Cachet, Logan van Beek, Aryan Dutt, Roelof van der Merwe, Timm van der Gugten, Fred Klaassen"
+  },
+  "team2": {
+    "name": "NAM",
+    "lineup": " Louren Steenkamp, Jan Frylinck, Jan Nicol Loftie-Eaton, Gerhard Erasmus(c), JJ Smit, Zane Green(w), Dylan Leicher, Ruben Trumpelmann, Willem Myburgh, Bernard Scholtz, Max Heingo"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NED"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NED2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NED3"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NED4"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NED5"
+    }
+  ]
+}
