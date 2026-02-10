@@ -1,0 +1,47 @@
+{
+  "match": {
+    "title": "SA vs AFG",
+    "date": "11 FEB 2026",
+    "time": "11:15 AM NST",
+    "stadium": "Narendra Modi Stadium, Ahmedabad",
+    "league": "T20 World Cup",
+    "round": "Group Stage",
+    "broadcaster": "WillowTV , Prime , ICC TV",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/uq99u0bwcg3nby2yadqz",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "SA",
+    "lineup": "Aiden Markram(c), Quinton de Kock(w), Ryan Rickelton, Dewald Brevis, David Miller, Tristan Stubbs, Marco Jansen, Corbin Bosch, Kagiso Rabada, Keshav Maharaj, Lungi Ngidi, Jason Smith, George Linde, Anrich Nortje, Kwena Maphaka"
+  },
+  "team2": {
+    "name": "AFG",
+    "lineup": "Rahmanullah Gurbaz(w), Ibrahim Zadran, Gulbadin Naib, Sediqullah Atal, Darwish Rasooli, Azmatullah Omarzai, Mohammad Nabi, Rashid Khan(c), Mujeeb Ur Rahman, Ziaur Rahman Sharifi, Fazalhaq Farooqi, Shahidullah Kamal, Mohammad Ishaq, Noor Ahmad, Abdullah Ahmadzai"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=SA"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=SA2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=SA3"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=SA4"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=SA5"
+    }
+  ]
+}

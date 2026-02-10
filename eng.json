@@ -1,0 +1,47 @@
+{
+  "match": {
+    "title": "ENG vs WI",
+    "date": "11 FEB 2026",
+    "time": "07:15 PM NST",
+    "stadium": "Wankhede Stadium, Mumbai",
+    "league": "T20 World Cup",
+    "round": "Group Stage",
+    "broadcaster": "WillowTV,Prime,ICC TV",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/gg0erqu6wyvo2rosfjwe",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "ENG",
+    "lineup": "Philip Salt, Jos Buttler(w), Jacob Bethell, Tom Banton, Harry Brook(c), Sam Curran, Will Jacks, Jofra Archer, Liam Dawson, Adil Rashid, Luke Wood, Josh Tongue, Rehan Ahmed, Jamie Overton, Ben Duckett"
+  },
+  "team2": {
+    "name": "WI",
+    "lineup": "Brandon King, Shai Hope(w/c), Shimron Hetmyer, Rovman Powell, Sherfane Rutherford, Romario Shepherd, Matthew Forde, Jason Holder, Akeal Hosein, Gudakesh Motie, Shamar Joseph, Johnson Charles, Roston Chase, Quentin Sampson, Jayden Seales"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG3"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG4"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG5"
+    }
+  ]
+}
