@@ -12,11 +12,11 @@
   },
   "team1": {
     "name": "ENG",
-    "lineup": "George Munsey, Michael Jones, Brandon McMullen, Richie Berrington(c), Tom Bruce, Michael Leask, Matthew Cross(w), Mark Watt, Oliver Davidson, Brad Wheal, Brad Currie, Safyaan Sharif, Finlay McCreath, Chris Greaves, Zainullah Ihsan"
+    "lineup": " Philip Salt, Jos Buttler(w), Jacob Bethell, Tom Banton, Harry Brook(c), Sam Curran, Will Jacks, Liam Dawson, Jamie Overton, Jofra Archer, Adil Rashid"
   },
   "team2": {
     "name": "SCO",
-    "lineup": "Richie Berrington (c),Matthew Cross (wk)George Munsey,Michael Jones,Brandon McMullen,Tom Bruce,Michael Leask,Mark Watt,Oliver Davidson,Brad Wheal,Brad Currie,Safyaan Sharif,Finlay McCreath,Chris Greaves,Zainullah Ihsan,"
+    "lineup": "George Munsey, Michael Jones, Brandon McMullen, Richie Berrington(c), Tom Bruce, Michael Leask, Matthew Cross(w), Mark Watt, Oliver Davidson, Brad Currie, Brad Wheal"
   },
   "info_sources": [
     {
@@ -25,23 +25,31 @@
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG2"
-    },
-    {
-      "name": "Link 3",
       "url": "https://yonotv-now.pages.dev/ADS"
     },
     {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG2"
+    },
+    {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG3"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG6"
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG4"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG3"
     },
     {
       "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG4"
+    },
+    {
+      "name": "Link 7",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG5"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://yonotv-now.pages.dev/ADS"
     }
   ]
 }

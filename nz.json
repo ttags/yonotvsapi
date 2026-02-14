@@ -6,17 +6,17 @@
     "stadium": "Narendra Modi Stadium, Ahmedabad",
     "league": "T20 World Cup",
     "round": "Group Stage",
-    "broadcaster": "Fancode,WillowTV,Prime",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/as3y4jwgg2yuihagm9pa",
+    "broadcaster": "WillowTV,Prime",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/vpqcwioxb8qdbrmirgxy",
     "lineup_published": true
   },
   "team1": {
     "name": "NZ",
-    "lineup": "Finn Allen, Tim Seifert (wk), Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner (c), James Neesham, Matt Henry, Lockie Ferguson, Jacob Duffy"
+    "lineup": "Tim Seifert(w), Finn Allen, Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner(c), James Neesham, Matt Henry, Lockie Ferguson, Jacob Duffy, Ish Sodhi, Kyle Jamieson, Devon Conway, Cole McConchie"
   },
   "team2": {
     "name": "SA",
-    "lineup": "Muhammad Waseem (c), Aryansh Sharma (wk), Alishan Sharafu, Sohaib Khan, Harshit Kaushik, Mayank Kumar, Dhruv Parashar, Muhammad Arfan, Haider Ali, Junaid Siddique, Muhammad Jawadullah"
+    "lineup": "Aiden Markram(c), Quinton de Kock(w), Ryan Rickelton, Dewald Brevis, David Miller, Tristan Stubbs, Marco Jansen, George Linde, Kagiso Rabada, Keshav Maharaj, Lungi Ngidi, Corbin Bosch, Jason Smith, Anrich Nortje, Kwena Maphaka"
   },
   "info_sources": [
     {
