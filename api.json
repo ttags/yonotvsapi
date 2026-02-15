@@ -1,32 +1,32 @@
 [
   {
     "league": "\ud83c\udfc6T20 World Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=ire",
-    "home_team": "Ireland",
-    "home_flag": "https://aimages.willow.tv/teamLogos/ireland.png",
-    "away_team": "Oman",
-    "away_flag": "https://aimages.willow.tv/teamLogos/oman.png",
-    "start_time": "2026-02-14T11:15:00+05:45",
-    "end_time": "2026-02-14T15:00:00+05:45"
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nepal",
+    "home_team": "Nepal",
+    "home_flag": "https://dns-tv.pages.dev/logo/can.png",
+    "away_team": "West Indies",
+    "away_flag": "https://aimages.willow.tv/teamLogos/westindies.png",
+    "start_time": "2026-02-15T11:15:00+05:45",
+    "end_time": "2026-02-15T15:00:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20 World Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=eng",
-    "home_team": "England",
-    "home_flag": "https://aimages.willow.tv/teamLogos/england.png",
-    "away_team": "Scotland",
-    "away_flag": "https://aimages.willow.tv/teamLogos/scotland.png",
-    "start_time": "2026-02-14T15:15:00+05:45",
-    "end_time": "2026-02-14T19:00:00+05:45"
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=usa",
+    "home_team": "USA",
+    "home_flag": "https://aimages.willow.tv/teamLogos/usa.png",
+    "away_team": "Namibia",
+    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/5802.png",
+    "start_time": "2026-02-15T15:15:00+05:45",
+    "end_time": "2026-02-15T19:00:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20 World Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nz",
-    "home_team": "New Zealand",
-    "home_flag": "https://aimages.willow.tv/teamLogos/newzealand.png",
-    "away_team": "South Africa",
-    "away_flag": "https://aimages.willow.tv/teamLogos/southafrica.png",
-    "start_time": "2026-02-14T19:15:00+05:45",
-    "end_time": "2026-02-14T23:15:00+05:45"
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=india",
+    "home_team": "India",
+    "home_flag": "https://aimages.willow.tv/teamLogos/india.png",
+    "away_team": "Pakistan",
+    "away_flag": "https://aimages.willow.tv/teamLogos/pakistan.png",
+    "start_time": "2026-02-15T19:15:00+05:45",
+    "end_time": "2026-02-15T23:45:00+05:45"
   }
 ]
