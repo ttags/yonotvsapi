@@ -1,0 +1,55 @@
+{
+  "match": {
+    "title": "AUS vs ZIM",
+    "date": "13 FEB 2026",
+    "time": "11:15 AM NST",
+    "stadium": "Premadasa Stadium, Colombo",
+    "league": "T20 World Cup",
+    "round": "Group Stage",
+    "broadcaster": "WillowTV,Prime",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905333/prd/nqlhzsm3kkaq0n2ip4xo",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "AUS",
+    "lineup": "Travis Head(c), Josh Inglis(w), Cameron Green, Matt Renshaw, Glenn Maxwell, Tim David, Marcus Stoinis, Ben Dwarshuis, Nathan Ellis, Adam Zampa, Matthew Kuhnemann"
+  },
+  "team2": {
+    "name": "ZIM",
+    "lineup": "Brian Bennett, Tadiwanashe Marumani(w), Dion Myers, Sikandar Raza(c), Ryan Burl, Tony Munyonga, Tashinga Musekiwa, Brad Evans, Wellington Masakadza, Graeme Cremer, Blessing Muzarabani,"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=AUS"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=AUS2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=AUS3"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=AUS4"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=AUS5"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=AUS6"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    }
+  ]
+}
