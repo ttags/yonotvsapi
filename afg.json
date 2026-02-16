@@ -3,7 +3,7 @@
     "title": "AFG vs UAE",
     "date": "16 FEB 2026",
     "time": "11:15 AM NST",
-    "stadium": "MA Chidambaram Stadium, Chennai",
+    "stadium": "Arun Jaitley Stadium, Delhi",
     "league": "T20 World Cup",
     "round": "Group Stage",
     "broadcaster": "STAR SPORTS,Prime,ICC TV",
@@ -11,12 +11,12 @@
     "lineup_published": true
   },
   "team1": {
-    "UAEe": "AFG",
-    "lineup": "Monank Patel(w/c), Shayan Jahangir, Saiteja Mukkamalla, Sanjay KrishUAEurthi, Shubham Ranjane, Milind Kumar, Harmeet Singh, Mohammad Mohsin, Shadley van Schalkwyk, Nosthush Kenjige, Ali Khan, Shehan Jayasuriya, Ehsan Adil, Saurabh Netravalkar, Andries Gous"
+    "name": "AFG",
+    "lineup": "Rahmanullah Gurbaz(w), Ibrahim Zadran, Gulbadin Naib, Sediqullah Atal, Darwish Rasooli, Azmatullah Omarzai, Mohammad Nabi, Rashid Khan(c), Mujeeb Ur Rahman, Noor Ahmad, Fazalhaq Farooqi, Shahidullah Kamal, Mohammad Ishaq, Ziaur Rahman Sharifi, Abdullah Ahmadzai"
   },
   "team2": {
-    "UAEe": "UAE",
-    "lineup": "Louren Steenkamp, Jan Frylinck, Jan Nicol Loftie-Eaton, Gerhard Erasmus(c), JJ Smit, Zane Green(w), Malan Kruger, Ruben Trumpelmann, Bernard Scholtz, Ben Shikongo, Max Heingo, Dylan Leicher, Jack Brassell, Jan Balt, Willem Myburgh"
+    "name": "UAE",
+    "lineup": "Aryansh Sharma(w), Muhammad Waseem(c), Alishan Sharafu, Mayank Kumar, Sohaib Khan, Harshit Kaushik, Muhammad Arfan, Muhammad Farooq, Haider Ali, Junaid Siddique, Muhammad Jawadullah, Muhammad Rohid Khan, Simranjeet Singh, Dhruv Parashar, Syed Haider"
   },
   "info_sources": [
     {

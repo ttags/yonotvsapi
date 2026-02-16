@@ -1,22 +1,22 @@
 {
   "match": {
-    "title": "AUS vs ZIM",
-    "date": "13 FEB 2026",
-    "time": "11:15 AM NST",
-    "stadium": "Premadasa Stadium, Colombo",
+    "title": "AUS vs SL",
+    "date": "16 FEB 2026",
+    "time": "07:15 PM NST",
+    "stadium": "Pallekele International Cricket Stadium, Pallekele",
     "league": "T20 World Cup",
     "round": "Group Stage",
-    "broadcaster": "WillowTV,Prime",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905333/prd/nqlhzsm3kkaq0n2ip4xo",
+    "broadcaster": "WillowTV,Prime,ICC TV",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/yvlnxytvyspr879jsh8m",
     "lineup_published": true
   },
   "team1": {
     "name": "AUS",
-    "lineup": "Travis Head(c), Josh Inglis(w), Cameron Green, Matt Renshaw, Glenn Maxwell, Tim David, Marcus Stoinis, Ben Dwarshuis, Nathan Ellis, Adam Zampa, Matthew Kuhnemann"
+    "lineup": "Josh Inglis(w), Travis Head(c), Cameron Green, Tim David, Glenn Maxwell, Matt Renshaw, Marcus Stoinis, Ben Dwarshuis, Nathan Ellis, Adam Zampa, Matthew Kuhnemann, Mitchell Marsh, Xavier Bartlett, Cooper Connolly"
   },
   "team2": {
-    "name": "ZIM",
-    "lineup": "Brian Bennett, Tadiwanashe Marumani(w), Dion Myers, Sikandar Raza(c), Ryan Burl, Tony Munyonga, Tashinga Musekiwa, Brad Evans, Wellington Masakadza, Graeme Cremer, Blessing Muzarabani,"
+    "name": "SL",
+    "lineup": "Pathum Nissanka, Kamil Mishara, Kusal Mendis(w), Pavan Rathnayake, Dasun Shanaka(c), Kamindu Mendis, Dunith Wellalage, Dushan Hemantha, Dushmantha Chameera, Maheesh Theekshana, Matheesha Pathirana, Kusal Perera, Charith Asalanka, Pramod Madushan, Janith Liyanage"
   },
   "info_sources": [
     {
