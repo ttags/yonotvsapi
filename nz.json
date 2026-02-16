@@ -1,22 +1,22 @@
 {
   "match": {
-    "title": "NZ vs SA",
+    "title": "NZ vs CAN",
     "date": "14 FEB 2026",
     "time": "07:15 PM NST",
-    "stadium": "Narendra Modi Stadium, Ahmedabad",
+    "stadium": "MA Chidambaram Stadium, Chennai",
     "league": "T20 World Cup",
     "round": "Group Stage",
     "broadcaster": "WillowTV,Prime",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/vpqcwioxb8qdbrmirgxy",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/gjsxvgl52rcabgnepzh6",
     "lineup_published": true
   },
   "team1": {
     "name": "NZ",
-    "lineup": "Finn Allen, Tim Seifert(w), Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner(c), James Neesham, Matt Henry, Lockie Ferguson, Jacob Duffy"
+    "lineup": "Tim Seifert(w), Finn Allen, Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner(c), James Neesham, Matt Henry, Lockie Ferguson, Jacob Duffy, Ish Sodhi, Kyle Jamieson, Devon Conway, Cole McConchie"
   },
   "team2": {
-    "name": "SA",
-    "lineup": "Aiden Markram(c), Quinton de Kock(w), Ryan Rickelton, Dewald Brevis, David Miller, Tristan Stubbs, Marco Jansen, Corbin Bosch, Kagiso Rabada, Keshav Maharaj, Lungi Ngidi"
+    "name": "CAN",
+    "lineup": "Yuvraj Samra, Dilpreet Bajwa(c), Navneet Dhaliwal, Nicholas Kirton, Harsh Thaker, Shreyas Movva(w), Jaskaran Singh, Saad Bin Zafar, Dilon Heyliger, Kaleem Sana, Ansh Patel, Ravinderpal Singh, Kanwarpal Tathgur, Ajayveer Hundal, Shivam Sharma"
   },
   "info_sources": [
     {

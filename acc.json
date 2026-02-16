@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "NEP-W va UAE-W",
-    "date": "13 FEB 2026",
+    "title": "NEP-W va IND A-W",
+    "date": "17 FEB 2026",
     "time": "08:15 AM NST",
     "stadium": "Terdthai Cricket Ground",
     "league": "Women's Asia Cup Rising Stars",
     "round": "GROUP STAGE",
     "broadcaster": "Sony Sports & YoNoTV",
-    "banner_image": "https://images.mykhel.com/img/2024/07/uae-w-v-nep-w-600-1721331404.jpg",
+    "banner_image": "https://femalecricket.com/wp-content/uploads/2024/07/Match-10-India-vs-Nepal.jpg",
     "lineup_published": true
   },
   "team1": {
@@ -15,7 +15,7 @@
     "lineup": "Puja Mahato (c),Suman Bista,Rubina Chhetry,Kabita Joshi,Anu Kadayat,Seemana KC,Samjhana Khadka,Kabita Kunwar,Sita Rana Magar,Rubi Poddar (wk),Bindu Rawal,Riya Sharma,Kajal Shrestha (wk),Roma Thapa,Manisha Upadhaya."
   },
   "team2": {
-    "name": "UAE-W",
+    "name": "IND A-W",
     "lineup": "Hafsa Khalid (c),Waheeda Akhtar,Yusra Amir (wk),Lubna Behram,Syeda Masooma Jafri,Komal Khan (wk),Neha Sharmin Nadeem,Eman Naseer,Anosha Nasir,Momina Riasat,Gull Rukh,Huraina Sajjad,Omaima Sohail,Noreen Yaqoob,Shawaal Zulfiqar"
   },
   "info_sources": [
