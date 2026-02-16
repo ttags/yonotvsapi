@@ -1,0 +1,55 @@
+{
+  "match": {
+    "title": "NZ vs SA",
+    "date": "14 FEB 2026",
+    "time": "07:15 PM NST",
+    "stadium": "Narendra Modi Stadium, Ahmedabad",
+    "league": "T20 World Cup",
+    "round": "Group Stage",
+    "broadcaster": "WillowTV,Prime",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/vpqcwioxb8qdbrmirgxy",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "NZ",
+    "lineup": "Finn Allen, Tim Seifert(w), Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner(c), James Neesham, Matt Henry, Lockie Ferguson, Jacob Duffy"
+  },
+  "team2": {
+    "name": "SA",
+    "lineup": "Aiden Markram(c), Quinton de Kock(w), Ryan Rickelton, Dewald Brevis, David Miller, Tristan Stubbs, Marco Jansen, Corbin Bosch, Kagiso Rabada, Keshav Maharaj, Lungi Ngidi"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NZ"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NZ2"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NZ3"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NZ4"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=NZ5"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    }
+  ]
+}
