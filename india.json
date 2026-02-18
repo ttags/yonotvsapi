@@ -1,22 +1,22 @@
 {
   "match": {
-    "title": "IND vs PAK",
-    "date": "15 FEB 2026",
+    "title": "IND vs NED",
+    "date": "18 FEB 2026",
     "time": "07:15 PM NST",
-    "stadium": "R.Premadasa Stadium, Colombo",
+    "stadium": "Narendra Modi Stadium, Ahmedabad",
     "league": "T20 World Cup 2026",
     "round": "Group stage",
-    "broadcaster": "WillowTV, AsportsHD,STAR SPORTS",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/etfqvjzwgsgcps88s3h2",
+    "broadcaster": "WillowTV,AsportsHD,STAR SPORTS",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/psny00vzyqmbbuwp1tns",
     "lineup_published": true
   },
   "team1": {
     "name": "IND",
-    "lineup": "Ishan Kishan(w), Sanju Samson, Tilak Varma, Suryakumar Yadav(c), Hardik Pandya, Shivam Dube, Rinku Singh, Axar Patel, Varun Chakaravarthy, Arshdeep Singh, Jasprit Bumrah, Abhishek Sharma, Kuldeep Yadav, Mohammed Siraj, Washington Sundar"
+    "lineup": " Ishan Kishan(w), Abhishek Sharma, Tilak Varma, Suryakumar Yadav(c), Hardik Pandya, Shivam Dube, Rinku Singh, Axar Patel, Kuldeep Yadav, Varun Chakaravarthy, Jasprit Bumrah, Sanju Samson, Mohammed Siraj, Washington Sundar, Arshdeep Singh"
   },
   "team2": {
-    "name": "PAK",
-    "lineup": "Saim Ayub, Sahibzada Farhan, Salman Agha(c), Babar Azam, Mohammad Nawaz, Shadab Khan, Faheem Ashraf, Usman Khan(w), Shaheen Afridi, Abrar Ahmed, Usman Tariq, Fakhar Zaman, Naseem Shah, Salman Mirza, Khawaja Nafay"
+    "name": "NED",
+    "lineup": "Michael Levitt, Max O'Dowd, Bas de Leede, Colin Ackermann, Scott Edwards(w/c), Zach Lion-Cachet, Roelof van der Merwe, Logan van Beek, Aryan Dutt, Kyle Klein, Fred Klaassen, Noah Croes, Saqib Zulfiqar, Paul van Meekeren, Timm van der Gugten"
   },
   "info_sources": [
     {
@@ -25,35 +25,31 @@
     },
     {
       "name": "Link 2",
-      "url": "https://yonotv-now.pages.dev/ADS"
-    },
-    {
-      "name": "Link 3",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND2"
     },
     {
-      "name": "Link 4",
+      "name": "Link 3",
       "url": "https://yonotv-now.pages.dev/ADS"
     },
     {
-      "name": "Link 5",
+      "name": "Link 4",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND3"
     },
     {
-      "name": "Link 6",
+      "name": "Link 5",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND4"
     },
     {
-      "name": "Link 7",
+      "name": "Link 6",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND5"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://yonotv-now.pages.dev/ADS"
     },
     {
       "name": "Link 8",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND6"
-    },
-    {
-      "name": "Link 9",
-      "url": "https://yonotv-now.pages.dev/ADS"
     }
   ]
 }
