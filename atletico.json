@@ -1,0 +1,39 @@
+{
+  "match": {
+    "title": "Atletico vs Club Brugge",
+    "date": "19 FEB 2026",
+    "time": "01:45 AM NST",
+    "stadium": "Coliseum",
+    "league": "La Liga",
+    "round": "Round 8",
+    "broadcaster": "Sky Sports ,beIN Sports,fuboTV",
+    "banner_image": "XX",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan",
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://gametimes.plus/home/blog3/"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://streams.center/embed/ch3.php"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/plyrr?src=https://live5.msrktz.app/live/82054853.m3u8"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/soco?id=285067"
+    }
+  ]
+}
