@@ -1,0 +1,51 @@
+{
+  "match": {
+    "title": "PAK vs NAM",
+    "date": "18 FEB 2026",
+    "time": "03:15 PM NST",
+    "stadium": "Sinhalese Sports Club, Colombo",
+    "league": "T20 World Cup 2026",
+    "round": "Group stage",
+    "broadcaster": "WillowTV, AsportsHD,ICC TV,STAR SPORTS",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/ipsejyf2lhkhkluoz75o",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "PAK",
+    "lineup": "Sahibzada Farhan, Saim Ayub, Salman Agha(c), Babar Azam, Usman Khan(w), Shadab Khan, Mohammad Nawaz, Faheem Ashraf, Shaheen Afridi, Abrar Ahmed, Usman Tariq, Fakhar Zaman, Naseem Shah, Salman Mirza, Khawaja Nafay"
+  },
+  "team2": {
+    "name": "NAM",
+    "lineup": " Louren Steenkamp, Jan Frylinck, Jan Nicol Loftie-Eaton, Gerhard Erasmus(c), JJ Smit, Zane Green(w), Ruben Trumpelmann, Dylan Leicher, Willem Myburgh, Bernard Scholtz, Max Heingo, Malan Kruger, Alexander Volschenk, Jack Brassell, Jan Balt"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=PAK"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=PAK2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://yonotv.pages.dev/ADS"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=PAK3"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://yonotv.pages.dev/ADS"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=PAK4"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=PAK5"
+    }
+  ]
+}

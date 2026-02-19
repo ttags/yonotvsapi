@@ -1,32 +1,42 @@
 [
   {
     "league": "\ud83c\udfc6T20 World Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=wi",
-    "home_team": "West Indies",
-    "home_flag": "https://aimages.willow.tv/teamLogos/westindies.png",
-    "away_team": "Italy",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
-    "start_time": "2026-02-19T11:15:00+05:45",
-    "end_time": "2026-02-19T15:00:00+05:45"
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=aus",
+    "home_team": "Australia",
+    "home_flag": "https://aimages.willow.tv/teamLogos/australia.png",
+    "away_team": "Oman",
+    "away_flag": "https://aimages.willow.tv/teamLogos/oman.png",
+    "start_time": "2026-02-20T19:15:00+05:45",
+    "end_time": "2026-02-20T23:15:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20 World Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=zim",
-    "home_team": "Zimbabwe",
-    "home_flag": "https://aimages.willow.tv/teamLogos/zimbabwe.png",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=pak",
+    "home_team": "New Zealand",
+    "home_flag": "https://aimages.willow.tv/teamLogos/newzealand.png",
+    "away_team": "Pakistan",
+    "away_flag": "https://aimages.willow.tv/teamLogos/pakistan.png",
+    "start_time": "2026-02-21T19:15:00+05:45",
+    "end_time": "2026-02-21T23:15:00+05:45"
+  },
+  {
+    "league": "\ud83c\udfc6T20 World Cup",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=eng",
+    "home_team": "England",
+    "home_flag": "https://aimages.willow.tv/teamLogos/england.png",
     "away_team": "Sri Lanka",
     "away_flag": "https://aimages.willow.tv/teamLogos/srilanka.png",
-    "start_time": "2026-02-19T15:15:00+05:45",
-    "end_time": "2026-02-19T19:00:00+05:45"
+    "start_time": "2026-02-22T15:15:00+05:45",
+    "end_time": "2026-02-22T19:00:00+05:45"
   },
   {
     "league": "\ud83c\udfc6T20 World Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=afg",
-    "home_team": "Afghanistan",
-    "home_flag": "https://aimages.willow.tv/teamLogos/afghanistan.png",
-    "away_team": "Canada",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
-    "start_time": "2026-02-19T19:15:00+05:45",
-    "end_time": "2026-02-19T23:15:00+05:45"
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=india",
+    "home_team": "India",
+    "home_flag": "https://aimages.willow.tv/teamLogos/india.png",
+    "away_team": "South Africa",
+    "away_flag": "https://aimages.willow.tv/teamLogos/southafrica.png",
+    "start_time": "2026-02-22T19:15:00+05:45",
+    "end_time": "2026-02-22T23:30:00+05:45"
   }
 ]
