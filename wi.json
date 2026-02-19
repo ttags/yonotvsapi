@@ -1,22 +1,22 @@
 {
   "match": {
-    "title": "WI vs SCO",
-    "date": "07 FEB 2026",
-    "time": "11:15 PM NST",
+    "title": "WI vs ITA",
+    "date": "19 FEB 2026",
+    "time": "11:15 AM NST",
     "stadium": "Eden Gardens",
     "league": "T20 World Cup 2026",
     "round": "Group stage",
     "broadcaster": "WillowTV, AsportsHD",
-    "banner_image": "https://www.cricketbatpro.com/wp-content/uploads/2026/02/WI-V-Scotland-ICC-Mens-T20-World-Cup-2026.webp",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/bvx6yo4odw9l9uwtoyhg",
     "lineup_published": true
   },
   "team1": {
     "name": "WI",
-    "lineup": " Brandon King, Shai Hope(w/c), Johnson Charles, Roston Chase, Rovman Powell, Sherfane Rutherford, Quentin Sampson, Jason Holder, Akeal Hosein, Matthew Forde, Shamar Joseph, Shimron Hetmyer, Gudakesh Motie, Romario Shepherd, Jayden Seales"
+    "lineup": "Brandon King, Shai Hope(w/c), Shimron Hetmyer, Roston Chase, Sherfane Rutherford, Rovman Powell, Jason Holder, Matthew Forde, Akeal Hosein, Gudakesh Motie, Shamar Joseph, Romario Shepherd, Jayden Seales, Quentin Sampson, Johnson Charles"
   },
   "team2": {
-    "name": "SCO",
-    "lineup": "Michael Jones, Mark Watt, Brandon McMullen, Richie Berrington(c), Tom Bruce, Matthew Cross(w), Oliver Davidson, Brad Currie, Zainullah Ihsan, Brad Wheal, Safyaan Sharif, Michael Leask, George Munsey, Finlay McCreath, Chris Greaves"
+    "name": "ITA",
+    "lineup": "Justin Mosca, Anthony Mosca, JJ Smuts, Harry Manenti(c), Ben Manenti, Grant Stewart, Marcus Campopiano, Gian Meade(w), Jaspreet Singh, Crishan Kalugamage, Ali Hasan, Syed Naqvi, Zain Ali, Thomas Draca, Wayne Madsen"
   },
   "info_sources": [
     {

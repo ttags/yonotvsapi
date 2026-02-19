@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "ZIM vs IRE",
-    "date": "17 FEB 2026",
+    "title": "ZIM vs SL",
+    "date": "19 FEB 2026",
     "time": "03:15 PM NST",
-    "stadium": "Pallekele International Cricket Stadium, Pallekele",
+    "stadium": "R.Premadasa Stadium, Colombo",
     "league": "T20 World Cup",
     "round": "Group Stage",
     "broadcaster": "WillowTV , Prime , ICC TV",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/vunvso5vghqnqdsbixwt",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/wlbkffkbmnu8uonvc9a5",
     "lineup_published": true
   },
   "team1": {
@@ -15,8 +15,8 @@
     "lineup": "Brian Bennett, Tadiwanashe Marumani(w), Ryan Burl, Sikandar Raza(c), Dion Myers, Tony Munyonga, Tashinga Musekiwa, Brad Evans, Wellington Masakadza, Graeme Cremer, Blessing Muzarabani, Richard Ngarava, Ben Curran, Clive Madande, Tinotenda Maposa"
   },
   "team2": {
-    "name": "IRE",
-    "lineup": "Tim Tector, Ross Adair, Harry Tector, Lorcan Tucker(w/c), Curtis Campher, Gareth Delany, George Dockrell, Mark Adair, Barry McCarthy, Matthew Humphreys, Joshua Little, Craig Young, Benjamin White, Benjamin Calitz, Sam Topping"
+    "name": "SL",
+    "lineup": "Pathum Nissanka, Kusal Perera, Kusal Mendis(w), Pavan Rathnayake, Dasun Shanaka(c), Kamindu Mendis, Dushan Hemantha, Dunith Wellalage, Dushmantha Chameera, Maheesh Theekshana, Kamil Mishara, Charith Asalanka, Janith Liyanage, Pramod Madushan"
   },
   "info_sources": [
     {
