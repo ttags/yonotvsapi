@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "AUS vs SL",
-    "date": "16 FEB 2026",
+    "title": "AUS vs OMN",
+    "date": "20 FEB 2026",
     "time": "07:15 PM NST",
     "stadium": "Pallekele International Cricket Stadium, Pallekele",
     "league": "T20 World Cup",
     "round": "Group Stage",
     "broadcaster": "WillowTV,Prime,ICC TV",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/yvlnxytvyspr879jsh8m",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/v1771434745/prd/gdiddstrlsptfqjusr1r",
     "lineup_published": true
   },
   "team1": {
@@ -15,8 +15,8 @@
     "lineup": "Josh Inglis(w), Travis Head(c), Cameron Green, Tim David, Glenn Maxwell, Matt Renshaw, Marcus Stoinis, Ben Dwarshuis, Nathan Ellis, Adam Zampa, Matthew Kuhnemann, Mitchell Marsh, Xavier Bartlett, Cooper Connolly"
   },
   "team2": {
-    "name": "SL",
-    "lineup": "Pathum Nissanka, Kamil Mishara, Kusal Mendis(w), Pavan Rathnayake, Dasun Shanaka(c), Kamindu Mendis, Dunith Wellalage, Dushan Hemantha, Dushmantha Chameera, Maheesh Theekshana, Matheesha Pathirana, Kusal Perera, Charith Asalanka, Pramod Madushan, Janith Liyanage"
+    "name": "OMN",
+    "lineup": "Aamir Kaleem, Jatinder Singh(c), Ashish Odedara, Hammad Mirza, Vinayak Shukla(w), Mohammad Nadeem, Jiten Ramanandi, Nadeem Khan, Sufyan Mehmood, Shakeel Ahmed, Shah Faisal, Shafiq Jan, Karan Sonavale, Jay Odedra, Wasim Ali"
   },
   "info_sources": [
     {
