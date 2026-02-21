@@ -1,8 +1,8 @@
 {
   "match": {
-    "title": "PAK vs NAM",
-    "date": "18 FEB 2026",
-    "time": "03:15 PM NST",
+    "title": "PAK vs NZ",
+    "date": "21 FEB 2026",
+    "time": "07:15 PM NST",
     "stadium": "Sinhalese Sports Club, Colombo",
     "league": "T20 World Cup 2026",
     "round": "Group stage",
@@ -15,7 +15,7 @@
     "lineup": "Sahibzada Farhan, Saim Ayub, Salman Agha(c), Babar Azam, Usman Khan(w), Shadab Khan, Mohammad Nawaz, Faheem Ashraf, Shaheen Afridi, Abrar Ahmed, Usman Tariq, Fakhar Zaman, Naseem Shah, Salman Mirza, Khawaja Nafay"
   },
   "team2": {
-    "name": "NAM",
+    "name": "NZ",
     "lineup": " Louren Steenkamp, Jan Frylinck, Jan Nicol Loftie-Eaton, Gerhard Erasmus(c), JJ Smit, Zane Green(w), Ruben Trumpelmann, Dylan Leicher, Willem Myburgh, Bernard Scholtz, Max Heingo, Malan Kruger, Alexander Volschenk, Jack Brassell, Jan Balt"
   },
   "info_sources": [

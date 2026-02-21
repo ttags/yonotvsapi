@@ -1,0 +1,39 @@
+{
+  "match": {
+    "title": "Inter Miami vs Los Angeles",
+    "date": "22 FEB 2026",
+    "time": "11:15 PM NST",
+    "stadium": "Geodis Park",
+    "league": "MLS",
+    "round": "Round 8",
+    "broadcaster": "beIN Sports,Sky Go UK,NBC",
+    "banner_image": "xx",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan",
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/soco?id=327159"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/plyrr?src=https://live5.msrktz.app/live/02456966.m3u8"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/soco?id=534219"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://yonotv-now.pages.dev/page?src=https://yonotv-now.pages.dev/plyrr?src=https://live5.msrktz.app/live/88508431.m3u8"
+    }
+  ]
+}
