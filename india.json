@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "IND vs NED",
-    "date": "18 FEB 2026",
+    "title": "IND vs SA",
+    "date": "22 FEB 2026",
     "time": "07:15 PM NST",
     "stadium": "Narendra Modi Stadium, Ahmedabad",
     "league": "T20 World Cup 2026",
-    "round": "Group stage",
+    "round": "Super 8",
     "broadcaster": "WillowTV,AsportsHD,STAR SPORTS",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/psny00vzyqmbbuwp1tns",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/t7kgallw420mb9o5zdzp",
     "lineup_published": true
   },
   "team1": {
@@ -15,8 +15,8 @@
     "lineup": " Ishan Kishan(w), Abhishek Sharma, Tilak Varma, Suryakumar Yadav(c), Hardik Pandya, Shivam Dube, Rinku Singh, Axar Patel, Kuldeep Yadav, Varun Chakaravarthy, Jasprit Bumrah, Sanju Samson, Mohammed Siraj, Washington Sundar, Arshdeep Singh"
   },
   "team2": {
-    "name": "NED",
-    "lineup": "Michael Levitt, Max O'Dowd, Bas de Leede, Colin Ackermann, Scott Edwards(w/c), Zach Lion-Cachet, Roelof van der Merwe, Logan van Beek, Aryan Dutt, Kyle Klein, Fred Klaassen, Noah Croes, Saqib Zulfiqar, Paul van Meekeren, Timm van der Gugten"
+    "name": "SA",
+    "lineup": "Aiden Markram(c), Quinton de Kock(w), Ryan Rickelton, Dewald Brevis, Tristan Stubbs, Jason Smith, George Linde, Corbin Bosch, Kagiso Rabada, Anrich Nortje, Kwena Maphaka, David Miller, Lungi Ngidi, Keshav Maharaj, Marco Jansen"
   },
   "info_sources": [
     {
