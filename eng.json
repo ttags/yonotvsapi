@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "ENG vs SL",
-    "date": "22 FEB 2026",
-    "time": "03:15 PM NST",
+    "title": "ENG vs PAK",
+    "date": "24 FEB 2026",
+    "time": "07:15 PM NST",
     "stadium": "Pallekele International Cricket Stadium, Pallekele",
     "league": "T20 World Cup",
     "round": "Super 8",
     "broadcaster": "STAR SPORTS,Prime,ICC TV",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/zaweqrlzuhqjeg39iwr4",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/ckhu8998iqqeazkqtcvz",
     "lineup_published": true
   },
   "team1": {
@@ -15,8 +15,8 @@
     "lineup": "Philip Salt, Jos Buttler(w), Jacob Bethell, Tom Banton, Harry Brook(c), Sam Curran, Will Jacks, Liam Dawson, Jamie Overton, Jofra Archer, Adil Rashid, Ben Duckett, Luke Wood, Josh Tongue, Rehan Ahmed"
   },
   "team2": {
-    "name": "SL",
-    "lineup": " Pathum Nissanka, Kusal Perera, Kusal Mendis(w), Pavan Rathnayake, Kamindu Mendis, Dasun Shanaka(c), Dunith Wellalage, Dushan Hemantha, Maheesh Theekshana, Dilshan Madushanka, Pramod Madushan, Dushmantha Chameera, Charith Asalanka, Janith Liyanage, Kamil Mishara"
+    "name": "PAK",
+    "lineup": "Sahibzada Farhan, Saim Ayub, Salman Agha(c), Babar Azam, Usman Khan(w), Shadab Khan, Mohammad Nawaz, Faheem Ashraf, Shaheen Afridi, Abrar Ahmed, Usman Tariq, Fakhar Zaman, Naseem Shah, Salman Mirza, Khawaja Nafay"
   },
   "info_sources": [
     {
@@ -42,10 +42,6 @@
     {
       "name": "Link 6",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=ENG5"
-    },
-    {
-      "name": "Link 7",
-      "url": "https://yonotv-now.pages.dev/ADS"
     }
   ]
 }
