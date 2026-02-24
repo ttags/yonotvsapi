@@ -1,16 +1,6 @@
 [
   {
     "league": "\ud83c\udfc6T20 World Cup",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=wi",
-    "home_team": "Zimbabwe",
-    "home_flag": "https://aimages.willow.tv/teamLogos/zimbabwe.png",
-    "away_team": "West Indies",
-    "away_flag": "https://aimages.willow.tv/teamLogos/westindies.png",
-    "start_time": "2026-02-23T19:15:00+05:45",
-    "end_time": "2026-02-23T23:15:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6T20 World Cup",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=eng",
     "home_team": "England",
     "home_flag": "https://aimages.willow.tv/teamLogos/england.png",
@@ -28,15 +18,5 @@
     "away_flag": "https://aimages.willow.tv/teamLogos/srilanka.png",
     "start_time": "2026-02-25T19:15:00+05:45",
     "end_time": "2026-02-25T23:15:00+05:45"
-  },
-  {
-    "league": "\ud83c\udfc6Premier League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=manunited",
-    "home_team": "Man United",
-    "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-    "away_team": "Everton",
-    "away_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-    "start_time": "2026-02-24T01:45:00+05:45",
-    "end_time": "2026-02-24T04:00:00+05:45"
   }
 ]
