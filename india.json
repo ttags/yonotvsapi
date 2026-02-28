@@ -1,0 +1,55 @@
+{
+  "match": {
+    "title": "IND vs ZIM",
+    "date": "26 FEB 2026",
+    "time": "07:15 PM NST",
+    "stadium": "MA Chidambaram Stadium, Chennai",
+    "league": "T20 World Cup",
+    "round": "Super 8",
+    "broadcaster": "STAR SPORTS,Prime,ICC TV",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/lfmd9cajz3p9unc06dod",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "IND",
+    "lineup": "Ishan Kishan(w), Abhishek Sharma, Tilak Varma, Suryakumar Yadav(c), Hardik Pandya, Shivam Dube, Rinku Singh, Axar Patel, Kuldeep Yadav, Varun Chakaravarthy, Jasprit Bumrah, ZIMnju ZIMmson, Mohammed Siraj, Washington Sundar, Arshdeep Singh"
+  },
+  "team2": {
+    "name": "ZIM",
+    "lineup": "Tadiwanashe Marumani(w), Brian Bennett, Dion Myers, Ryan Burl, Sikandar Raza(c), Tony Munyonga, Tashinga Musekiwa, Brad Evans, Graeme Cremer, Blessing Muzarabani, Richard Ngarava, Ben Curran, Clive Madande, Tinotenda Maposa, Wellington Masakadza"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND4"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND5"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND6"
+    }
+  ]
+}
