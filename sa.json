@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "SA vs UAE",
-    "date": "18 FEB 2026",
-    "time": "11:15 AM NST",
+    "title": "SA vs ZIM",
+    "date": "01 MAR 2026",
+    "time": "03:15 PM NST",
     "stadium": "Arun Jaitley Stadium, Delhi",
     "league": "T20 World Cup",
-    "round": "Group Stage",
+    "round": "Super 8",
     "broadcaster": "WillowTV , Prime , ICC TV",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/yg3jxtaqrjfkmu0dacpr",
+    "banner_image": "https://images.indianexpress.com/2026/03/ZIMBABWE-VS-SOUTH-AFRICA-LIVE.png",
     "lineup_published": true
   },
   "team1": {
@@ -15,8 +15,8 @@
     "lineup": "Aiden Markram(c), Quinton de Kock(w), Ryan Rickelton, Dewald Brevis, David Miller, Tristan Stubbs, Marco Jansen, Corbin Bosch, Kagiso Rabada, Keshav Maharaj, Lungi Ngidi, Jason Smith, George Linde, Anrich Nortje, Kwena Maphaka"
   },
   "team2": {
-    "name": "UAE",
-    "lineup": "Aryansh Sharma(w), Muhammad Waseem(c), Alishan Sharafu, Sohaib Khan, Syed Haider, Harshit Kaushik, Muhammad Arfan, Haider Ali, Simranjeet Singh, Junaid Siddique, Muhammad Jawadullah, Muhammad Farooq, Dhruv Parashar, Muhammad Rohid Khan, Mayank Kumar"
+    "name": "ZIM",
+    "lineup": "Tadiwanashe Marumani(w), Brian Bennett, Dion Myers, Ryan Burl, Sikandar Raza(c), Tony Munyonga, Tashinga Musekiwa, Brad Evans, Graeme Cremer, Blessing Muzarabani, Richard Ngarava, Ben Curran, Clive Madande, Tinotenda Maposa, Wellington Masakadza"
   },
   "info_sources": [
     {
@@ -37,11 +37,19 @@
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=SA5"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=SA4"
     },
     {
       "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=SA5"
+    },
+    {
+      "name": "Link 7",
       "url": "https://yonotv-now.pages.dev/ADS"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=SA6"
     }
   ]
 }
