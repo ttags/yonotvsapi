@@ -21,39 +21,31 @@
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND"
+      "url": "#"
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND2"
+      "url": "#"
     },
     {
       "name": "Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND1"
+      "url": "#"
     },
     {
       "name": "Link 4",
-      "url": "https://yonotv-now.pages.dev/ADS"
+      "url": "#"
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND3"
+      "url": "#"
     },
     {
       "name": "Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND4"
+      "url": "#"
     },
     {
       "name": "Link 7",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND5"
-    },
-    {
-      "name": "Link 8",
-      "url": "https://yonotv-now.pages.dev/ADS"
-    },
-    {
-      "name": "Link 9",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/LINK?id=IND6"
+      "url": "#"
     }
   ]
 }
