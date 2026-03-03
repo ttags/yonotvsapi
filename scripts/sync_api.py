@@ -169,7 +169,7 @@ def git_commit_and_push(message):
     subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
     subprocess.run(["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"], check=True)
     subprocess.run(["git", "add", "."], check=True)
-    subprocess.run(["git", "commit", "-m", f"{message} [skip ci]"], check=True) # Added skip ci for cloudflare
+    subprocess.run(["git", "commit", "-m", message], check=True)
     subprocess.run(["git", "push"], check=True)
 
 def remove_stale_jsons(valid_ids):
