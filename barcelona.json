@@ -25,7 +25,7 @@
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-render.pages.dev/shaka?ref=https://live5.msrktz.app/live/90865415.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=https://live5.msrktz.app/live/90865415.m3u8"
     },
     {
       "name": "Link 3",
