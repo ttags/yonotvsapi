@@ -215,14 +215,22 @@ def main():
         remove_stale_jsons(ids)
         
         for mid in ids:
-            log(f"Fetching {mid}.json")
-            data = fetch_json(f"{BASE_API}/{mid}.json")
-            
-            # Use the new smart processor
-            data = process_match_json(data)
-            
-            out = ROOT / f"{mid}.json"
-            out.write_text(json.dumps(data, indent=2), encoding="utf-8")
+            try:
+                log(f"Fetching {mid}.json")
+                data = fetch_json(f"{BASE_API}/{mid}.json")
+                
+                # Use the new smart processor
+                data = process_match_json(data)
+                
+                out = ROOT / f"{mid}.json"
+                out.write_text(json.dumps(data, indent=2), encoding="utf-8")
+                
+            except requests.exceptions.JSONDecodeError:
+                log(f"⚠️ Skipping {mid}.json: Source API returned invalid JSON (likely an error page).")
+                continue # Move to the next match ID
+            except Exception as e:
+                log(f"⚠️ Skipping {mid}.json due to unexpected error: {e}")
+                continue        
             
         if git_has_changes():
             git_commit_and_push("chore: sync api.json and match feeds")
