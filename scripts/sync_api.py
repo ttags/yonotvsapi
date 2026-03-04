@@ -107,9 +107,13 @@ def process_smart_url(url):
                     else:
                         extracted_stream = raw_player_url
                         
-                    # Validate it's an actual raw stream
+                    # IS IT A RAW STREAM? (.m3u8 / .mpd)
                     if extracted_stream and (".m3u8" in extracted_stream or ".mpd" in extracted_stream):
-                        return f"https://ytvs-render.pages.dev/shaka?ref={extracted_stream}"
+                        # FIX 1: DOUBLE WRAP! Frame -> Shaka -> Stream
+                        return f"https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref={extracted_stream}"
+                    else:
+                        # FIX 2: It's an HTML page (like wc4 with DRM). Frame wrap it directly!
+                        return f"https://ytvs-frame.pages.dev/frame?ref={raw_player_url}"
                         
             # If ID not found, or it wasn't a valid stream, flag for manual intervention
             return "#"
