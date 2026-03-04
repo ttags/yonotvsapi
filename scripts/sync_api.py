@@ -119,7 +119,8 @@ def process_smart_url(url):
                 extracted_stream = src_url.split("src=")[-1]
                 
             if extracted_stream and (".m3u8" in extracted_stream or ".mpd" in extracted_stream):
-                return f"https://ytvs-render.pages.dev/shaka?ref={extracted_stream}"
+                # DOUBLE WRAP: Frame -> Shaka -> Raw Stream
+                return f"https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref={extracted_stream}"
         
         # 4. If it's a generic 3rd party URL inside page.html
         return f"https://ytvs-frame.pages.dev/frame?ref={src_url}"
