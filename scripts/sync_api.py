@@ -26,7 +26,12 @@ def write_summary(text):
 def fetch_json(url):
     r = requests.get(url, timeout=20)
     r.raise_for_status()
-    return r.json()
+    try:
+        return r.json()
+    except requests.exceptions.JSONDecodeError:
+        log(f"❌ Failed to parse JSON from {url}")
+        log(f"First 100 chars of response: {r.text[:100]}") # Shows you if it's HTML
+        raise
 
 def get_channels_mapping():
     """Scrapes the Original's LINK page and parses the JS channels object."""
