@@ -108,7 +108,19 @@ def process_smart_url(url):
                         
             # If ID not found, or it wasn't a valid stream, flag for manual intervention
             return "#"
+
+        # 3.5 Check if it's a direct player wrapper (like plyrr) containing the raw stream
+        elif "plyrr" in src_url and "src=" in src_url:
+            nested_parsed = urlparse(src_url)
+            nested_qs = parse_qs(nested_parsed.query)
+            extracted_stream = nested_qs.get("src", [None])[0]
             
+            if not extracted_stream:
+                extracted_stream = src_url.split("src=")[-1]
+                
+            if extracted_stream and (".m3u8" in extracted_stream or ".mpd" in extracted_stream):
+                return f"https://ytvs-render.pages.dev/shaka?ref={extracted_stream}"
+        
         # 4. If it's a generic 3rd party URL inside page.html
         return f"https://ytvs-frame.pages.dev/frame?ref={src_url}"
 
