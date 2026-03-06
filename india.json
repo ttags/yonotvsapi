@@ -1,22 +1,22 @@
 {
   "match": {
-    "title": "IND vs ENG",
-    "date": "05 MAR 2026",
+    "title": "IND vs NZ",
+    "date": "08 MAR 2026",
     "time": "07:15 PM NST",
-    "stadium": "Wankhede Stadium",
+    "stadium": "Narendra Modi Stadium",
     "league": "T20 World Cup",
-    "round": "Semi Final 2",
+    "round": "GRAND FINAL",
     "broadcaster": "STAR SPORTS,Prime,ICC TV",
-    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/dcvef8ayzw52zr8x0xrn",
+    "banner_image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-webp/prd/rycvykfiq5tiqe8fijar",
     "lineup_published": true
   },
   "team1": {
     "name": "IND",
-    "lineup": "Ishan Kishan(w), Abhishek Sharma, Tilak Varma, Suryakumar Yadav(c), Hardik Pandya, Shivam Dube, Rinku Singh, Axar Patel, Kuldeep Yadav, Varun Chakaravarthy, Jasprit Bumrah, ENGnju ENGmson, Mohammed Siraj, Washington Sundar, Arshdeep Singh"
+    "lineup": "Ishan Kishan(w), Abhishek Sharma, Tilak Varma, Suryakumar Yadav(c), Hardik Pandya, Shivam Dube, Rinku Singh, Axar Patel, Kuldeep Yadav, Varun Chakaravarthy, Jasprit Bumrah, NZnju NZmson, Mohammed Siraj, Washington Sundar, Arshdeep Singh"
   },
   "team2": {
-    "name": "ENG",
-    "lineup": "Philip Salt, Jos Buttler(w), Harry Brook(c), Jacob Bethell, Tom Banton, Sam Curran, Will Jacks, Rehan Ahmed, Liam Dawson, Jofra Archer, Adil Rashid, Ben Duckett, Luke Wood, Josh Tongue, Jamie Overton"
+    "name": "NZ",
+    "lineup": "Tim Seifert(w), Finn Allen, Rachin Ravindra, Glenn Phillips, Mark Chapman, Daryl Mitchell, Mitchell Santner(c), James Neesham, Matt Henry, Lockie Ferguson, Jacob Duffy, Ish Sodhi, Kyle Jamieson, Devon Conway, Cole McConchie"
   },
   "info_sources": [
     {
@@ -41,10 +41,6 @@
     },
     {
       "name": "Link 6",
-      "url": "#"
-    },
-    {
-      "name": "Link 7",
       "url": "#"
     }
   ]
