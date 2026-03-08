@@ -21,27 +21,27 @@
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/wc"
+      "url": "#"
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=https://g-cdn.styxsports.live/LiveApp/streams/ub1Y185u62GRGJHT966403776794_adaptive.m3u8"
+      "url": "#"
     },
     {
       "name": "Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=https://001.fclplayer.net/live/csstream3/playlist.m3u8?id=1003"
+      "url": "#"
     },
     {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://thirstyhike.net/embed/yzawfoo68"
+      "url": "#"
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=https://001.fclplayer.net/live/csstream1/playlist.m3u8?id=1001"
+      "url": "#"
     },
     {
       "name": "Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"
+      "url": "#"
     }
   ]
 }
