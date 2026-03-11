@@ -1,0 +1,39 @@
+{
+  "match": {
+    "title": "PAK vs BANG",
+    "date": "11 MAR 2026",
+    "time": "02:15 PM NST",
+    "stadium": "Pallekele Intl Cricket Stadium",
+    "league": "ODI SERIES",
+    "round": "1ST MATCH",
+    "broadcaster": "WillowTV, AsportsHD,ICC TV,STAR SPORTS",
+    "banner_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcf911f9-f4db-4353-bec2-411e06d6cb8a/1/BOXART-16X9/en-US._UR1920,1080_SX500_FMjpg_.jpeg",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "PAK",
+    "lineup": "Sahibzada Farhan, Saim Ayub, Salman Agha(c), Babar Azam, Usman Khan(w), Shadab Khan, Mohammad Nawaz, Faheem Ashraf, Shaheen Afridi, Abrar Ahmed, Usman Tariq, Fakhar Zaman, Naseem Shah, Salman Mirza, Khawaja Nafay"
+  },
+  "team2": {
+    "name": "BANG",
+    "lineup": "Litton Das (c and wk), Saif Hassan, Tanzid Hasan Tamim, Parvez Hossain Emon, Towhid Hridoy, Jaker Ali Anik (wk), Nurul Hasan Sohan (wk), Mahidul Islam Ankon (wk), Mahedi Hasan, Rishad Hossain, Nasum Ahmed, Mustafizur Rahman, Tanzim Hasan Sakib, Shoriful Islam, Mohammad Saifuddin"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yonotv-now.pages.dev/wc3"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://wapgo.pages.dev/?id=T%20Sports%20HD"
+    }
+  ]
+}
