@@ -1,0 +1,35 @@
+{
+  "match": {
+    "title": "IPL 2026 AUCTION",
+    "date": "16 DEC ",
+    "time": "02:45 PM NST",
+    "stadium": "---",
+    "league": "IPL 2026 AUCTION 2025 ",
+    "round": "--",
+    "broadcaster": "WILLOW TV ,Star Sports,Ten Sports & YoNoTV",
+    "banner_image": "https://www.jagranimages.com/images/2025/12/15/article/image/ipl-auction-live-1765795803030.webp",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "India",
+    "lineup": "Ashok Dhami(c) ,Bansha Kshetri, Nischal Kshetri, Nitish Kumar Patel, Chandan Ram, Roshan Bishwakarma, Aparajit Paudel, Cibrin Shrestha, Niraj Yadav, Darsh Sonar, Dilsad Ali, Dayanand Mandal, and Sushil Bahadur Rawal"
+  },
+  "team2": {
+    "name": "UAE",
+    "lineup": "Yayin Rai(c), aAhmed Khodadad, Aliasgar Shums, Ayaan Misbah, Karan Dhiman, Madhav Manoj, Naseem Khan, Noorullah Ayobi, Prithvi Madhu, Rayan Khan, Saleh Amin, Uddish Suri, Yug Sharma, and Zainullah Rahmani."
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "#"
+    },
+    {
+      "name": "Link 2",
+      "url": "#"
+    },
+    {
+      "name": "Link 3",
+      "url": "#"
+    }
+  ]
+}
