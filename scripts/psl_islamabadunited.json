@@ -1,0 +1,38 @@
+{
+  "match_id": "psl_islamabadunited",
+  "type": "PSL",
+  "league": "Pakistan Super League 2026",
+  "team1": "Islamabad United",
+  "team2": "Multan Sultans",
+  "slug": "islamabadunited",
+  "venue": "Karachi",
+  "start_time": "2026-04-26T14:00:00Z",
+  "duration_hours": 3.5,
+  "match_url": "https://match-details.wicketgoal-tv.com/?match=islamabadunited",
+  "stream_links": [
+    {
+      "name": "Link 1",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=IU1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://fixesconsessionconsession.com/jngpnhi8?key=5bd41ec34384a413e2daecfa48267270"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=IU3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=IU4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=IU5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=IU6"
+    }
+  ]
+}

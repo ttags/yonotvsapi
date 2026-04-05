@@ -1,0 +1,38 @@
+{
+  "match_id": "psl_multansultans",
+  "type": "PSL",
+  "league": "Pakistan Super League 2026",
+  "team1": "Multan Sultans",
+  "team2": "Rawalpindiz",
+  "slug": "multansultans",
+  "venue": "Lahore",
+  "start_time": "2026-04-06T14:00:00Z",
+  "duration_hours": 3.5,
+  "match_url": "https://match-details.wicketgoal-tv.com/?match=multansultans",
+  "stream_links": [
+    {
+      "name": "Link 1",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=MS1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://fixesconsessionconsession.com/jngpnhi8?key=5bd41ec34384a413e2daecfa48267270"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=MS3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=MS4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=MS5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=MS6"
+    }
+  ]
+}

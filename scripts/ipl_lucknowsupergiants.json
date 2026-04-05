@@ -1,0 +1,38 @@
+{
+  "match_id": "ipl_lucknowsupergiants",
+  "type": "IPL",
+  "league": "Indian Premier League 2026",
+  "team1": "Lucknow Super Giants",
+  "team2": "Gujarat Titans",
+  "slug": "lucknowsupergiants",
+  "venue": "BRSABV Ekana Stadium",
+  "start_time": "2026-04-12T10:00:00Z",
+  "duration_hours": 3.5,
+  "match_url": "https://match-details.wicketgoal-tv.com/?match=lucknowsupergiants",
+  "stream_links": [
+    {
+      "name": "Link 1",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=LSG1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://fixesconsessionconsession.com/jngpnhi8?key=5bd41ec34384a413e2daecfa48267270"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=LSG3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=LSG4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=LSG5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=LSG6"
+    }
+  ]
+}

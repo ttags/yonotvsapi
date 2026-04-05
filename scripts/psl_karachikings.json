@@ -1,0 +1,38 @@
+{
+  "match_id": "psl_karachikings",
+  "type": "PSL",
+  "league": "Pakistan Super League 2026",
+  "team1": "Karachi Kings",
+  "team2": "Peshawar Zalmi",
+  "slug": "karachikings",
+  "venue": "Lahore",
+  "start_time": "2026-04-22T09:30:00Z",
+  "duration_hours": 3.5,
+  "match_url": "https://match-details.wicketgoal-tv.com/?match=karachikings",
+  "stream_links": [
+    {
+      "name": "Link 1",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=KK1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://fixesconsessionconsession.com/jngpnhi8?key=5bd41ec34384a413e2daecfa48267270"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=KK3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=KK4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=KK5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=KK6"
+    }
+  ]
+}
