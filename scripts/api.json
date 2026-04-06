@@ -4,66 +4,6 @@
     "type": "IPL",
     "league": "Indian Premier League 2026",
     "team1": "Kolkata Knight Riders",
-    "team2": "Sunrisers Hyderabad",
-    "slug": "kolkataknightriders",
-    "start_time": "2026-04-02T14:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=kolkataknightriders"
-  },
-  {
-    "match_id": "ipl_chennaisuperkings",
-    "type": "IPL",
-    "league": "Indian Premier League 2026",
-    "team1": "Chennai Super Kings",
-    "team2": "Punjab Kings",
-    "slug": "chennaisuperkings",
-    "start_time": "2026-04-03T14:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=chennaisuperkings"
-  },
-  {
-    "match_id": "ipl_delhicapitals",
-    "type": "IPL",
-    "league": "Indian Premier League 2026",
-    "team1": "Delhi Capitals",
-    "team2": "Mumbai Indians",
-    "slug": "delhicapitals",
-    "start_time": "2026-04-04T10:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=delhicapitals"
-  },
-  {
-    "match_id": "ipl_gujarattitans",
-    "type": "IPL",
-    "league": "Indian Premier League 2026",
-    "team1": "Gujarat Titans",
-    "team2": "Rajasthan Royals",
-    "slug": "gujarattitans",
-    "start_time": "2026-04-04T14:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=gujarattitans"
-  },
-  {
-    "match_id": "ipl_sunrisershyderabad",
-    "type": "IPL",
-    "league": "Indian Premier League 2026",
-    "team1": "Sunrisers Hyderabad",
-    "team2": "Lucknow Super Giants",
-    "slug": "sunrisershyderabad",
-    "start_time": "2026-04-05T10:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=sunrisershyderabad"
-  },
-  {
-    "match_id": "ipl_royalchallengersbengaluru",
-    "type": "IPL",
-    "league": "Indian Premier League 2026",
-    "team1": "Royal Challengers Bengaluru",
-    "team2": "Chennai Super Kings",
-    "slug": "royalchallengersbengaluru",
-    "start_time": "2026-04-05T14:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=royalchallengersbengaluru"
-  },
-  {
-    "match_id": "ipl_kolkataknightriders",
-    "type": "IPL",
-    "league": "Indian Premier League 2026",
-    "team1": "Kolkata Knight Riders",
     "team2": "Punjab Kings",
     "slug": "kolkataknightriders",
     "start_time": "2026-04-06T14:00:00Z",
@@ -148,56 +88,6 @@
     "slug": "mumbaiindians",
     "start_time": "2026-04-12T14:00:00Z",
     "match_url": "https://match-details.wicketgoal-tv.com/?match=mumbaiindians"
-  },
-  {
-    "match_id": "psl_quettagladiators",
-    "type": "PSL",
-    "league": "Pakistan Super League 2026",
-    "team1": "Quetta Gladiators",
-    "team2": "Islamabad United",
-    "slug": "quettagladiators",
-    "start_time": "2026-04-02T09:30:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=quettagladiators"
-  },
-  {
-    "match_id": "psl_rawalpindiz",
-    "type": "PSL",
-    "league": "Pakistan Super League 2026",
-    "team1": "Rawalpindiz",
-    "team2": "Karachi Kings",
-    "slug": "rawalpindiz",
-    "start_time": "2026-04-02T14:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=rawalpindiz"
-  },
-  {
-    "match_id": "psl_lahoreqalandars",
-    "type": "PSL",
-    "league": "Pakistan Super League 2026",
-    "team1": "Lahore Qalandars",
-    "team2": "Multan Sultans",
-    "slug": "lahoreqalandars",
-    "start_time": "2026-04-03T14:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=lahoreqalandars"
-  },
-  {
-    "match_id": "psl_rawalpindiz",
-    "type": "PSL",
-    "league": "Pakistan Super League 2026",
-    "team1": "Rawalpindiz",
-    "team2": "Islamabad United",
-    "slug": "rawalpindiz",
-    "start_time": "2026-04-04T14:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=rawalpindiz"
-  },
-  {
-    "match_id": "psl_quettagladiators",
-    "type": "PSL",
-    "league": "Pakistan Super League 2026",
-    "team1": "Quetta Gladiators",
-    "team2": "Multan Sultans",
-    "slug": "quettagladiators",
-    "start_time": "2026-04-05T14:00:00Z",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=quettagladiators"
   },
   {
     "match_id": "psl_multansultans",
