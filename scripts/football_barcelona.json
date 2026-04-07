@@ -1,0 +1,38 @@
+{
+  "match_id": "football_barcelona",
+  "type": "Football",
+  "league": "UEFA Champions League",
+  "team1": "Barcelona",
+  "team2": "Atl\u00e9tico Madrid",
+  "slug": "barcelona",
+  "venue": "",
+  "start_time": "2026-04-08T00:45:00+05:45",
+  "duration_hours": 4,
+  "match_url": "https://match-details.wicketgoal-tv.com/?match=barcelona",
+  "stream_links": [
+    {
+      "name": "Link 1",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=B1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://fixesconsessionconsession.com/jngpnhi8?key=5bd41ec34384a413e2daecfa48267270"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=B3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=B4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=B5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://cric-hd.pages.dev/page/?src=https://wicket-goal.pages.dev/player/?id=B6"
+    }
+  ]
+}

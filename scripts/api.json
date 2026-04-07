@@ -398,5 +398,65 @@
     "slug": "final",
     "start_time": "2026-05-03T14:00:00Z",
     "match_url": "https://match-details.wicketgoal-tv.com/?match=final"
+  },
+  {
+    "match_id": "football_realmadrid",
+    "type": "Football",
+    "league": "UEFA Champions League",
+    "team1": "Real Madrid",
+    "team2": "Bayern Munich",
+    "slug": "realmadrid",
+    "start_time": "2026-04-08T00:45:00+05:45",
+    "match_url": "https://match-details.wicketgoal-tv.com/?match=realmadrid"
+  },
+  {
+    "match_id": "football_sportingcp",
+    "type": "Football",
+    "league": "UEFA Champions League",
+    "team1": "Sporting CP",
+    "team2": "Arsenal",
+    "slug": "sportingcp",
+    "start_time": "2026-04-08T00:45:00+05:45",
+    "match_url": "https://match-details.wicketgoal-tv.com/?match=sportingcp"
+  },
+  {
+    "match_id": "football_barcelona",
+    "type": "Football",
+    "league": "UEFA Champions League",
+    "team1": "Barcelona",
+    "team2": "Atl\u00e9tico Madrid",
+    "slug": "barcelona",
+    "start_time": "2026-04-08T00:45:00+05:45",
+    "match_url": "https://match-details.wicketgoal-tv.com/?match=barcelona"
+  },
+  {
+    "match_id": "football_parissaintgermain",
+    "type": "Football",
+    "league": "UEFA Champions League",
+    "team1": "Paris Saint-Germain",
+    "team2": "Liverpool",
+    "slug": "parissaintgermain",
+    "start_time": "2026-04-08T00:45:00+05:45",
+    "match_url": "https://match-details.wicketgoal-tv.com/?match=parissaintgermain"
+  },
+  {
+    "match_id": "football_braga",
+    "type": "Football",
+    "league": "UEFA Europa League",
+    "team1": "Braga",
+    "team2": "Real Betis",
+    "slug": "braga",
+    "start_time": "2026-04-08T22:30:00+05:45",
+    "match_url": "https://match-details.wicketgoal-tv.com/?match=braga"
+  },
+  {
+    "match_id": "football_wrexham",
+    "type": "Football",
+    "league": "English Championship",
+    "team1": "Wrexham",
+    "team2": "Southampton",
+    "slug": "wrexham",
+    "start_time": "2026-04-08T00:45:00+05:45",
+    "match_url": "https://match-details.wicketgoal-tv.com/?match=wrexham"
   }
 ]
