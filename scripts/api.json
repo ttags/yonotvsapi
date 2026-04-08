@@ -400,26 +400,6 @@
     "match_url": "https://match-details.wicketgoal-tv.com/?match=final"
   },
   {
-    "match_id": "football_realmadrid",
-    "type": "Football",
-    "league": "UEFA Champions League",
-    "team1": "Real Madrid",
-    "team2": "Bayern Munich",
-    "slug": "realmadrid",
-    "start_time": "2026-04-08T00:45:00+05:45",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=realmadrid"
-  },
-  {
-    "match_id": "football_sportingcp",
-    "type": "Football",
-    "league": "UEFA Champions League",
-    "team1": "Sporting CP",
-    "team2": "Arsenal",
-    "slug": "sportingcp",
-    "start_time": "2026-04-08T00:45:00+05:45",
-    "match_url": "https://match-details.wicketgoal-tv.com/?match=sportingcp"
-  },
-  {
     "match_id": "football_barcelona",
     "type": "Football",
     "league": "UEFA Champions League",
