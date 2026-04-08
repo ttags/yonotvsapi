@@ -1,9 +1,9 @@
 name: Sync Yonotvs API JSONs
 
 on:
-  schedule:
-    - cron: "0 */3 * * *"   # every 3 hours
-  workflow_dispatch:        # manual run button
+#  schedule:
+#    - cron: "0 */3 * * *"   # every 3 hours
+#  workflow_dispatch:        # manual run button
 
 permissions:
   contents: write   # REQUIRED to push files
