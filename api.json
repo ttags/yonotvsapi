@@ -1,7 +1,7 @@
 [ 
 {
   "league": "Indian Premier League",
-  "match_link": "https://www.yonotvs.com/p/match-data.html?id=ipl",
+  "match_link": "https://www.yonotvs.com/p/match-details.html?id=ipl",
   "home_team": "DC",
   "home_flag": "https://aimages.willow.tv/teamLogos/delhicapitals.png",
   "away_team": "GT",
@@ -11,7 +11,7 @@
 },
   {
   "league": "Pakistan Super League",
-  "match_link": "https://www.yonotvs.com/p/match-data.html?id=psl",
+  "match_link": "https://www.yonotvs.com/p/match-details.html?id=psl",
   "home_team": "Hyderabad",
   "home_flag": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c883179/hyderabad-kingsmen.jpg",
   "away_team": "Peshawar",
@@ -21,7 +21,7 @@
 },
 {
   "league": "UEFA Champions League",
-  "match_link": "https://www.yonotvs.com/p/match-data.html?id=psg",
+  "match_link": "https://www.yonotvs.com/p/match-details.html?id=psg",
   "home_team": "PSG",
   "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
   "away_team": "Liverpool",
@@ -31,7 +31,7 @@
 },
 {
   "league": "UEFA Champions League",
-  "match_link": "https://www.yonotvs.com/p/match-data.html?id=barcelona",
+  "match_link": "https://www.yonotvs.com/p/match-details.html?id=barcelona",
   "home_team": "Barcelona",
   "home_flag": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
   "away_team": "Atletico Madrid",
