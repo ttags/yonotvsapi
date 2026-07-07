@@ -1,30 +1,30 @@
 {
     "info_sources": [
             {
-      "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa24"
+      "name": "HD Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa2"
     },
             {
-      "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa22"
+      "name": "HD Link 2",
+      "url": "https://ytvs-db.pages.dev/promo"
     },
     {
-      "name": "Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa1"
-    },
-
-    {
-      "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa3"
+      "name": "Super HD Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa4"
     },
 
     {
-      "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa5"
+      "name": "Super HD Link 4",
+      "url": "https://ytvs-db.pages.dev/promo"
+    },
+
+    {
+      "name": "No Lag - HD Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa5"
     },
     {
-      "name": "Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa6"
+      "name": "No Lag HD Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa6"
     },
     {
       "name": "Link 7",
