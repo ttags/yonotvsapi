@@ -1,66 +1,40 @@
 {
-    "info_sources": [
-     {
-      "name": "High Quality ( No Blur ) Link",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fb64plyrr%3Furl%3DaHR0cHM6Ly9saXZlMi5qeGE3Ni5jb20vbGl2ZS9oZC1lbi02TXZZTVJUR3dGdnhTVzE5ZUsubTN1OD90eFNlY3JldD0zYzhlODVmMWQ0MTc0NmNhZjc3ZTYyOTQ0MTQzNGZjMCZ0eFRpbWU9MTlGNjM0MEFDMTM"
+  "info_sources": [
+    {
+      "name": "Smooth HD Quality Link",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fritzembeds.pages.dev%2Fembed%2Ffox-usa"
     },
     {
-      "name": "Best Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Flive05.meung.app%252Flive%252F08552895.m3u8"
-    },
-            {
-      "name": "Full HD Link - Zero Lag",
+      "name": "4K Full HD Link",
       "url": "https://ytvs-db.pages.dev/promo"
     },
     {
-      "name": "Super HD Link 3",
+      "name": "HD Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fritzembeds.pages.dev%2Fembed%2Ftsn1-ca"
+    },
+    {
+      "name": "HD Link 2",
+      "url": "https://ytvs-db.pages.dev/promo"
+    },
+    {
+      "name": "HD Link 3",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fv4.sportsonlinne.click%2Fchannels%2Fhd%2Fhd11.php"
     },
-
     {
       "name": "Super HD Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Flive05.meung.app%252Flive%252F08552895.m3u8"
+      "url": "https://ytvs-db.pages.dev/promo"
     },
-
     {
       "name": "No Lag - HD Link 5",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fv4.sportsonlinne.click%2Fchannels%2Fhd%2Fhd6.php"
     },
     {
-      "name": "No Lag HD Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa5"
+      "name": "No Lag - HD Link 6",
+      "url": "https://ytvs-db.pages.dev/promo"
     },
     {
-      "name": "Link 7",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa7"
-    },
-    {
-      "name": "Link 8",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa5"
-    },
-    {
-      "name": "Link 9",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa9"
-    },
-    {
-      "name": "Link 10",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa10"
-    },
-    {
-      "name": "Link 11",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa11"
-    },
-    {
-      "name": "Link 12",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa12"
-    },
-    {
-      "name": "Link 13",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa13"
-    },
-    {
-      "name": "Link 14",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa14"
+      "name": "No Lag - HD Link 7",
+      "url": "https://ytvs-db.pages.dev/promo"
     }
   ]
 }
