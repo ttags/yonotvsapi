@@ -1,20 +1,20 @@
 {
   "info_sources": [
     {
-      "name": "PC ONLY Smooth HD Quality Link",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Ffiveo4.vilevodules.uk%252Fmain%252Fsecure%252F47fabac0cdbd1ed75baad954b5970298f157684fd8e00f0d12ebc5083a293e95%252F1784152327%252Ffox-usa.m3u8"
+      "name": "HD Quality Link (English)",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fv4.sportsonlinne.click%2Fchannels%2Fhd%2Fhd1.php"
+    },
+    {
+      "name": "No Lag - HD Link - Mobile",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
+    },
+    {
+      "name": "HD Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fv4.sportsonlinne.click%2Fchannels%2Fhd%2Fhd2.php"
     },
     {
       "name": "4K Full HD Link",
       "url": "https://ytvs-db.pages.dev/promo"
-    },
-    {
-      "name": "No Lag - HD Link - Mobile",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fb64plyrr%3Furl%3DaHR0cHM6Ly9saXZlMi5qeGE3Ni5jb20vbGl2ZS9zZC02TXZZTVJUR3dEalVhMkJFVlIubTN1OD90eFNlY3JldD05ODc3N2Y5ODk4MTQ1NGU3NWYwNTVmYWZkODgwYmNiMCZ0eFRpbWU9MTlGNjg2ODk0NTI"
-    },
-    {
-      "name": "HD Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fritzembeds.pages.dev%2Fembed%2Ftsn1-ca"
     },
     {
       "name": "HD Link 2",
@@ -22,7 +22,7 @@
     },
     {
       "name": "HD Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fb64plyrr%3Furl%3DaHR0cHM6Ly9saXZlMi5qeGE3Ni5jb20vbGl2ZS9zZC02TXZZTVJUR3dEalVhMkJFVlIubTN1OD90eFNlY3JldD05ODc3N2Y5ODk4MTQ1NGU3NWYwNTVmYWZkODgwYmNiMCZ0eFRpbWU9MTlGNjg2ODk0NTI"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fplyrr%3Fsrc%3Dhttps%3A%2F%2Flive.inplyr.com%2Froom%2F327159.m3u8"
     },
     {
       "name": "Super HD Link 4",
@@ -30,7 +30,7 @@
     },
     {
       "name": "No Lag - HD Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fb64plyrr%3Furl%3DaHR0cHM6Ly9saXZlMi5qeGE3Ni5jb20vbGl2ZS9zZC02TXZZTVJUR3dEalVhMkJFVlIubTN1OD90eFNlY3JldD05ODc3N2Y5ODk4MTQ1NGU3NWYwNTVmYWZkODgwYmNiMCZ0eFRpbWU9MTlGNjg2ODk0NTI"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fv4.sportsonlinne.click%2Fchannels%2Fhd%2Fhd11.php"
     },
     {
       "name": "No Lag - HD Link 6",
@@ -42,7 +42,7 @@
     },
     {
       "name": "No lag - HD Link 8 ",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fb64plyrr%3Furl%3DaHR0cHM6Ly9saXZlMi5qeGE3Ni5jb20vbGl2ZS9zZC02TXZZTVJUR3dEalVhMkJFVlIubTN1OD90eFNlY3JldD05ODc3N2Y5ODk4MTQ1NGU3NWYwNTVmYWZkODgwYmNiMCZ0eFRpbWU9MTlGNjg2ODk0NTI"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fv4.sportsonlinne.click%2Fchannels%2Fhd%2Fhd6.php"
     },
     {
       "name": "No Lag - HD Link 9",
@@ -50,7 +50,7 @@
     },
     {
       "name": "No Lag - HD Link 10",
-      "url": "https://yonotv-now.pages.dev/plyrr?src=https://live.inplyr.com/room/327159.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
     },
     {
       "name": "No Lag - HD Link 11",
@@ -58,11 +58,11 @@
     },
     {
       "name": "4k Link 9",
-      "url": "https://hlsplayers.pages.dev/player3?url=https://play3.315nb.com/live/112964133425_1363836344_1080p.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
     },
     {
       "name": "Backup Link 10",
-      "url": "https://hlsplayers.pages.dev/player3?url=https://live05.miekgo.app/live/78905744.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
     }
   ]
 }
