@@ -2,19 +2,19 @@
   "info_sources": [
     {
       "name": "No Lag - HD Link - Mobile",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Flive.kinxie.com%252Flive%252F53452539_324afdd008086fc7fab19de9be96773a_1080p.m3u8"
     },
     {
-      "name": "HD Quality Link (English)",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fplyrr%3Fsrc%3Dhttps%3A%2F%2Flive.inplyr.com%2Froom%2F327159.m3u8"
+      "name": "HD Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
     },
     {
       "name": "4K Full HD Link",
       "url": "https://ytvs-db.pages.dev/promo"
     },
     {
-      "name": "HD Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fv4.sportsonlinne.click%2Fchannels%2Fhd%2Fhd6.php"
+      "name": "HD Quality Link (English)",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fplyrr%3Fsrc%3Dhttps%3A%2F%2Flive.inplyr.com%2Froom%2F327159.m3u8"
     },
     {
       "name": "HD Link 2",
