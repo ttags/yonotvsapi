@@ -2,19 +2,15 @@
   "info_sources": [
     {
       "name": "4k Ultra HD Quality ",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Ffiveo4.vilevodules.uk%252Fmain%252Fsecure%252F234d13f638a95d3f94ded5d1763b88550d915b4e6ba4862a50aecd9aa7d7b39d%252F1784488169%252Ffox-usa2.m3u8"
-    },
-    {
-      "name": "1080P HD Quality - English",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Fdfr80qz435crc.cloudfront.net%252FMNOP%252FAmagi%252FCaze%252FCaze_TV_BR%252FCaze_TV.m3u8"
-    },
-    {
-      "name": "4k Ultra HD Quality - ENGLISH",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Ffiveo4.vilevodules.uk%252Fmain%252Fsecure%252Fcc2cd3ae6d6b2fe8e07ea6fb1514f9e3da51d8d0d841aa74afc31257267b7084%252F1784488342%252Fbbc-uk.m3u8"
+      "url": "https://fiveo4.vilevodules.uk/main/secure/c01803c625b07ab97d2c64fad26c23df352ef9790f96ab3960d5de7805f3cdff/1784492053/fox-usa2.m3u8"
     },
     {
       "name": "4k Quality - No Lag -Spanish BEIN",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252F1nyaler.streamhostingcdn.top%252Fstream%252F23%252Findex.m3u8"
+    },
+    {
+      "name": "4k Ultra HD Quality - ENGLISH",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Ffiveo4.vilevodules.uk%252Fmain%252Fsecure%252Fcc2cd3ae6d6b2fe8e07ea6fb1514f9e3da51d8d0d841aa74afc31257267b7084%252F1784488342%252Fbbc-uk.m3u8"
     },
     {
       "name": "BACKUP Link - Full HD ",
