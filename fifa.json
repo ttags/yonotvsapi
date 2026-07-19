@@ -27,6 +27,10 @@
     {
       "name": "720p - Match Link",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fplyrr%3Fsrc%3Dhttps%3A%2F%2Flive.inplyr.com%2Froom%2F327159.m3u8"
+    },
+    {
+      "name": "Backup Link ( SD Quality ) ",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Fd2w9q46ikgrcwx.cloudfront.net%252Fv1%252Fmaster%252F3722c60a815c199d9c0ef36c5b73da68a62b09d1%252Fcc-of5cbk3sav3w5%252Fv1%252Fsysdata_s_p_a_fifa_7%252Fsamsungheadend_us%252Flatest%252Fmain%252Fhls%252Fplaylist.m3u8"
     }
   ]
 }
