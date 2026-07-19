@@ -1,68 +1,32 @@
 {
   "info_sources": [
     {
-      "name": "No Lag - HD Link - Mobile",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Flive.kinxie.com%252Flive%252F53452539_324afdd008086fc7fab19de9be96773a_1080p.m3u8"
+      "name": "4k Ultra HD Quality - SPANISH",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Fdfr80qz435crc.cloudfront.net%252FMNOP%252FAmagi%252FCaze%252FCaze_TV_BR%252FCaze_TV.m3u8"
     },
     {
-      "name": "HD Quality Link (4k)",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Flive2.jxa76.com%252Flive%252Fsd-6MvYMRTGwLKvBTeyx7.m3u8%253FtxSecret%253Dab5a209f76696a72988fec4d5ebfef2b%2526txTime%253D19F78475AFD"
+      "name": "1080P HD Quality - English",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Ffiveo4.vilevodules.uk%252Fmain%252Fsecure%252F234d13f638a95d3f94ded5d1763b88550d915b4e6ba4862a50aecd9aa7d7b39d%252F1784488169%252Ffox-usa2.m3u8"
     },
     {
-      "name": "4K Full HD Link",
-      "url": "https://ytvs-db.pages.dev/promo"
+      "name": "4k Ultra HD Quality - ENGLISH",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Ffiveo4.vilevodules.uk%252Fmain%252Fsecure%252Fcc2cd3ae6d6b2fe8e07ea6fb1514f9e3da51d8d0d841aa74afc31257267b7084%252F1784488342%252Fbbc-uk.m3u8"
     },
     {
-      "name": "HD Link 1",
+      "name": "4k Quality - No Lag - English BEIN",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252F1nyaler.streamhostingcdn.top%252Fstream%252F23%252Findex.m3u8"
+    },
+    {
+      "name": "BACKUP Link - Full HD ",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fplayer.xyzstreams.st%2Fembed%2Ffox-usa2"
+    },
+    {
+      "name": "Backup Link - Non-English Language ",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
     },
     {
-      "name": "HD Link 2",
-      "url": "https://ytvs-db.pages.dev/promo"
-    },
-    {
-      "name": "HD Link 3",
+      "name": "720p - Match Link",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fyonotv-now.pages.dev%2Fplyrr%3Fsrc%3Dhttps%3A%2F%2Flive.inplyr.com%2Froom%2F327159.m3u8"
-    },
-    {
-      "name": "Super HD Link 4",
-      "url": "https://ytvs-db.pages.dev/promo"
-    },
-    {
-      "name": "No Lag - HD Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Flive2.jxa76.com%252Flive%252Fsd-6MvYMRTGwLKvBTeyx7.m3u8%253FtxSecret%253Dab5a209f76696a72988fec4d5ebfef2b%2526txTime%253D19F78475AFD"
-    },
-    {
-      "name": "No Lag - HD Link 6",
-      "url": "https://ytvs-db.pages.dev/promo"
-    },
-    {
-      "name": "No Lag - HD Link 7",
-      "url": "https://ytvs-db.pages.dev/promo"
-    },
-    {
-      "name": "No lag - HD Link 8 ",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fytvs-render.pages.dev%2Fshaka%3Fhls%3Dhttps%253A%252F%252Flive.kinxie.com%252Flive%252F53452539_324afdd008086fc7fab19de9be96773a_1080p.m3u8"
-    },
-    {
-      "name": "No Lag - HD Link 9",
-      "url": "https://ytvs-db.pages.dev/promo"
-    },
-    {
-      "name": "No Lag - HD Link 10",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
-    },
-    {
-      "name": "No Lag - HD Link 11",
-      "url": "https://ytvs-db.pages.dev/promo"
-    },
-    {
-      "name": "4k Link 9",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
-    },
-    {
-      "name": "Backup Link 10",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https%3A%2F%2Fhlsplayers.pages.dev%2Fplayer3%3Furl%3Dhttps%3A%2F%2Flive05.miekgo.app%2Flive%2F78905744.m3u8"
     }
   ]
 }
